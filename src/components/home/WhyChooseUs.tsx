@@ -21,22 +21,25 @@ export default function WhyChooseUs() {
 
   return (
     <section
-      className="py-14 sm:py-20 lg:py-24 overflow-hidden bg-cover bg-center"
+      className="py-16 sm:py-20 lg:py-26 overflow-hidden bg-cover bg-center relative"
       style={{
-        backgroundColor: "#123687",
-        backgroundImage: 'url("/demo-2/images/banners/bg2.png")',
+        backgroundColor: "#021330",
+        backgroundImage: 'linear-gradient(180deg, rgba(2,19,48,0.92) 0%, rgba(0,14,48,0.96) 100%), url("/demo-2/images/banners/bg2.png")',
         backgroundPosition: "center center",
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover",
       }}
     >
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         {/* Header */}
         <div className="text-center max-w-3xl mx-auto mb-10 sm:mb-14">
-          <p className="text-xs uppercase font-medium tracking-widest text-white mb-1.5 sm:mb-2">
-            WHY CHOOSE NIKAM SCIENTIFIC
-          </p>
-          <h2 className="text-2xl sm:text-3xl lg:text-[30px] font-extrabold text-white font-heading tracking-tight">
+          <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#ff7522]/20 border border-[#ff7522]/40 text-[#ff7522] text-[11px] sm:text-xs font-black uppercase tracking-widest backdrop-blur-md mb-3 shadow-inner">
+            <span>WHY CHOOSE NIKAM SCIENTIFIC</span>
+          </div>
+          <h2
+            className="text-2xl sm:text-3xl lg:text-4xl font-black text-white font-heading tracking-tight leading-tight !text-white drop-shadow-md"
+            style={{ color: "#ffffff" }}
+          >
             Why Laboratories Choose Nikam Scientific
           </h2>
         </div>

@@ -36,14 +36,17 @@ export default function QuoteModal() {
 
       {/* Modal Dialog */}
       <div className="relative w-full max-w-2xl bg-white rounded-2xl shadow-2xl overflow-hidden z-10 animate-scaleUp max-h-[92dvh] sm:max-h-[90vh] flex flex-col border border-white/20 ring-1 ring-black/10">
-        {/* Header */}
-        <div className="bg-gradient-to-r from-[#121315] to-[#1e2023] text-white p-5 sm:p-6 border-b-4 border-[#ff7522] flex items-center justify-between">
+        {/* Modal Header */}
+        <div className="bg-gradient-to-r from-[#021330] to-[#011d4d] text-white p-5 sm:p-6 border-b-4 border-[#ff7522] flex items-center justify-between">
           <div>
             <div className="flex items-center gap-2 text-[#ff7522] text-xs font-bold uppercase tracking-wider mb-0.5 sm:mb-1">
               <Sparkles className="w-3.5 h-3.5" />
               <span>Nikam Scientific Fast Quote</span>
             </div>
-            <h3 className="text-lg sm:text-xl font-bold text-white font-heading">
+            <h3
+              className="text-lg sm:text-xl font-bold !text-white font-heading"
+              style={{ color: "#ffffff" }}
+            >
               Request a Custom Quote
             </h3>
           </div>

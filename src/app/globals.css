@@ -50,7 +50,21 @@ h2.text-white,
 h3.text-white,
 h4.text-white,
 h5.text-white,
-h6.text-white {
+h6.text-white,
+[class*="bg-[#021330]"] h1,
+[class*="bg-[#021330]"] h2,
+[class*="bg-[#021330]"] h3,
+[class*="bg-[#021330]"] h4,
+[class*="bg-[#021330]"] h5,
+[class*="bg-[#021330]"] h6,
+[class*="bg-slate-9"] h1,
+[class*="bg-slate-9"] h2,
+[class*="bg-slate-9"] h3,
+[class*="bg-slate-9"] h4,
+[class*="bg-black"] h1,
+[class*="bg-black"] h2,
+[class*="bg-black"] h3,
+[class*="bg-black"] h4 {
   color: #ffffff !important;
 }
 
@@ -242,3 +256,30 @@ h6.text-\[\#121315\] {
   color: #ff7522;
   border: 1px solid rgba(255, 117, 34, 0.2);
 }
+
+/* Parallax Scroll Animations & Motion Optimization */
+@keyframes parallax-subtle {
+  from {
+    transform: translateY(-40px);
+  }
+  to {
+    transform: translateY(40px);
+  }
+}
+
+@supports ((animation-timeline: view()) and (animation-range: entry)) {
+  .parallax-layer {
+    animation: parallax-subtle linear both;
+    animation-timeline: view();
+    animation-range: entry 0% exit 100%;
+    will-change: transform;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .parallax-layer {
+    animation: none !important;
+    transform: none !important;
+  }
+}
+

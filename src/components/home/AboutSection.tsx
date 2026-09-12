@@ -41,10 +41,10 @@ export default function AboutSection() {
           {/* Right Column: Content */}
           <div className="lg:col-span-6 space-y-5 sm:space-y-6">
             <div>
-              <p className="text-xs uppercase font-extrabold tracking-widest text-[#ff7522] mb-1.5 sm:mb-2">
-                WHO WE ARE
-              </p>
-              <h2 className="text-2xl sm:text-3xl lg:text-[32px] font-extrabold text-[#001463] font-heading leading-snug">
+              <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#ff7522]/15 border border-[#ff7522]/35 text-[#ff7522] text-[11px] sm:text-xs font-bold uppercase tracking-wider mb-2.5">
+                <span>WHO WE ARE</span>
+              </div>
+              <h2 className="text-2xl sm:text-3xl lg:text-[34px] font-black text-[#021330] font-heading leading-tight tracking-tight">
                 Precision Laboratory Glassware Manufacturer in India
               </h2>
             </div>

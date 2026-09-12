@@ -40,19 +40,19 @@ export default function Header() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between">
             {/* Logo */}
-            <Link href="/" className="flex items-center flex-shrink-0">
+            <Link href="/" className="flex items-center flex-shrink-0 group py-0.5">
               <Image
                 src="/demo-2/images/logo/ns-logo.png"
-                alt="Nikam Scientific"
-                width={200}
-                height={85}
-                className="w-[130px] sm:w-[155px] md:w-[170px] lg:w-[185px] xl:w-[195px] h-auto object-contain"
+                alt="Nikam Scientific Co. - Laboratory Glassware Manufacturer"
+                width={300}
+                height={128}
+                className="w-[165px] sm:w-[200px] md:w-[235px] lg:w-[260px] xl:w-[285px] h-auto object-contain transition-transform duration-300 group-hover:scale-[1.03]"
                 priority
               />
             </Link>
 
             {/* Desktop Navigation */}
-            <nav className="hidden lg:flex items-center gap-0.5 xl:gap-2">
+            <nav className="hidden lg:flex items-center gap-0.5 xl:gap-1.5">
               {MAIN_NAV.map((item) => {
                 const isActive =
                   item.href === "/"
@@ -70,14 +70,14 @@ export default function Header() {
                       onMouseLeave={() => setActiveDropdown(null)}
                     >
                       <button
-                        className={`flex items-center gap-1 px-2 xl:px-3 py-1.5 font-heading text-[13.5px] xl:text-[15.5px] font-semibold uppercase tracking-[0.4px] xl:tracking-[1.1px] transition-colors cursor-pointer ${
+                        className={`flex items-center gap-1 px-2 xl:px-2.5 py-1.5 font-heading text-[13px] xl:text-[14.5px] font-bold uppercase tracking-[0.5px] transition-colors cursor-pointer ${
                           isActive
                             ? "text-[#ff7522]"
-                            : "text-[#121315] hover:text-[#ff7522]"
+                            : "text-slate-800 hover:text-[#ff7522]"
                         }`}
                       >
                         <span>{item.title}</span>
-                        <ChevronDown className="w-3.5 h-3.5 xl:w-4 xl:h-4 transition-transform duration-200 group-hover:rotate-180 text-gray-500 group-hover:text-[#ff7522]" />
+                        <ChevronDown className="w-3.5 h-3.5 transition-transform duration-200 group-hover:rotate-180 text-gray-500 group-hover:text-[#ff7522]" />
                       </button>
 
                       {/* Dropdown Menu with Seamless Hover Bridge (pt-2) */}
@@ -89,7 +89,7 @@ export default function Header() {
                               <Link
                                 key={child.href}
                                 href={child.href}
-                                className={`flex items-center justify-between px-5 py-2.5 text-[14.5px] xl:text-[15px] font-semibold transition-all duration-200 border-b border-gray-50 last:border-0 group/item ${
+                                className={`flex items-center justify-between px-5 py-2.5 text-[14px] xl:text-[14.5px] font-semibold transition-all duration-200 border-b border-gray-50 last:border-0 group/item ${
                                   isChildActive
                                     ? "text-[#ff7522] bg-orange-50/50 pl-6"
                                     : "text-[#222222] hover:text-[#ff7522] hover:bg-orange-50/40 hover:pl-6"
@@ -112,10 +112,10 @@ export default function Header() {
                   <Link
                     key={item.href}
                     href={item.href}
-                    className={`px-2 xl:px-3 py-1.5 font-heading text-[13.5px] xl:text-[15.5px] font-semibold uppercase tracking-[0.4px] xl:tracking-[1.1px] transition-colors whitespace-nowrap ${
+                    className={`px-2 xl:px-2.5 py-1.5 font-heading text-[13px] xl:text-[14.5px] font-bold uppercase tracking-[0.5px] transition-colors whitespace-nowrap ${
                       isActive
                         ? "text-[#ff7522]"
-                        : "text-[#121315] hover:text-[#ff7522]"
+                        : "text-slate-800 hover:text-[#ff7522]"
                     }`}
                   >
                     {item.title}
@@ -128,16 +128,16 @@ export default function Header() {
             <div className="flex items-center gap-2 sm:gap-3 flex-shrink-0">
               <button
                 onClick={() => openQuoteModal()}
-                className="hidden lg:inline-flex btn-primary text-xs xl:text-sm uppercase tracking-wider font-bold py-2 xl:py-2.5 px-3.5 xl:px-5 rounded-[6px] shadow-xs hover:shadow-md cursor-pointer transition-all whitespace-nowrap"
+                className="hidden lg:inline-flex items-center gap-2 px-4 xl:px-5 py-2.5 rounded-xl bg-gradient-to-r from-[#ff7522] to-[#e65e0d] hover:from-[#ff853d] hover:to-[#ff7522] text-white text-xs xl:text-sm font-bold shadow-lg shadow-orange-950/15 transition-all hover:scale-105 active:scale-95 cursor-pointer whitespace-nowrap"
               >
-                <span>Get A Quote</span>
-                <ArrowRight className="w-3.5 h-3.5 xl:w-4 xl:h-4 ml-1.5" />
+                <Sparkles className="w-3.5 h-3.5 xl:w-4 xl:h-4" />
+                <span>Get Quotation</span>
               </button>
 
               {/* Mobile menu button with 44px min touch target */}
               <button
                 onClick={() => setMobileMenuOpen(true)}
-                className="lg:hidden p-2.5 rounded-lg text-gray-800 hover:text-[#ff7522] hover:bg-gray-100 transition-colors flex items-center justify-center min-w-[44px] min-h-[44px]"
+                className="lg:hidden p-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-800 hover:text-[#ff7522] transition-colors flex items-center justify-center min-w-[44px] min-h-[44px] cursor-pointer"
                 aria-label="Toggle navigation"
               >
                 <Menu className="w-6 h-6" />

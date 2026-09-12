@@ -118,7 +118,7 @@ export default function HomeContactSection() {
                       onChange={(e) =>
                         setFormData({ ...formData, name: e.target.value })
                       }
-                      className="w-full px-4 py-3 bg-white rounded-lg border border-gray-200 text-sm text-gray-800 placeholder-gray-400 focus:outline-hidden focus:border-[#ff7522]"
+                      className="w-full px-4 py-3.5 bg-white rounded-xl border border-slate-200 text-sm text-slate-900 placeholder-slate-400 focus:outline-hidden focus:border-[#ff7522] focus:ring-2 focus:ring-[#ff7522]/20 transition-all shadow-2xs"
                     />
                   </div>
 
@@ -131,7 +131,7 @@ export default function HomeContactSection() {
                       onChange={(e) =>
                         setFormData({ ...formData, email: e.target.value })
                       }
-                      className="w-full px-4 py-3 bg-white rounded-lg border border-gray-200 text-sm text-gray-800 placeholder-gray-400 focus:outline-hidden focus:border-[#ff7522]"
+                      className="w-full px-4 py-3.5 bg-white rounded-xl border border-slate-200 text-sm text-slate-900 placeholder-slate-400 focus:outline-hidden focus:border-[#ff7522] focus:ring-2 focus:ring-[#ff7522]/20 transition-all shadow-2xs"
                     />
                   </div>
                 </div>
@@ -146,7 +146,7 @@ export default function HomeContactSection() {
                       onChange={(e) =>
                         setFormData({ ...formData, phone: e.target.value })
                       }
-                      className="w-full px-4 py-3 bg-white rounded-lg border border-gray-200 text-sm text-gray-800 placeholder-gray-400 focus:outline-hidden focus:border-[#ff7522]"
+                      className="w-full px-4 py-3.5 bg-white rounded-xl border border-slate-200 text-sm text-slate-900 placeholder-slate-400 focus:outline-hidden focus:border-[#ff7522] focus:ring-2 focus:ring-[#ff7522]/20 transition-all shadow-2xs"
                     />
                   </div>
 
@@ -157,7 +157,7 @@ export default function HomeContactSection() {
                       onChange={(e) =>
                         setFormData({ ...formData, category: e.target.value })
                       }
-                      className="w-full px-4 py-3 bg-white rounded-lg border border-gray-200 text-sm text-gray-800 focus:outline-hidden focus:border-[#ff7522]"
+                      className="w-full px-4 py-3.5 bg-white rounded-xl border border-slate-200 text-sm text-slate-900 focus:outline-hidden focus:border-[#ff7522] focus:ring-2 focus:ring-[#ff7522]/20 transition-all shadow-2xs"
                     >
                       <option value="">Select Product Category</option>
                       <option value="Laboratory Glassware">Laboratory Glassware</option>
@@ -177,7 +177,7 @@ export default function HomeContactSection() {
                     onChange={(e) =>
                       setFormData({ ...formData, message: e.target.value })
                     }
-                    className="w-full px-4 py-3 bg-white rounded-lg border border-gray-200 text-sm text-gray-800 placeholder-gray-400 focus:outline-hidden focus:border-[#ff7522]"
+                    className="w-full px-4 py-3.5 bg-white rounded-xl border border-slate-200 text-sm text-slate-900 placeholder-slate-400 focus:outline-hidden focus:border-[#ff7522] focus:ring-2 focus:ring-[#ff7522]/20 transition-all shadow-2xs"
                   />
                 </div>
 
@@ -200,10 +200,10 @@ export default function HomeContactSection() {
                   <button
                     type="submit"
                     disabled={loading}
-                    className="btn-primary w-full py-3.5 text-xs uppercase font-bold tracking-wider"
+                    className="inline-flex items-center justify-center gap-2 w-full py-3.5 rounded-xl bg-gradient-to-r from-[#ff7522] to-[#e65e0d] hover:from-[#ff853d] hover:to-[#ff7522] text-white text-xs sm:text-sm uppercase font-bold tracking-wider shadow-lg shadow-orange-950/20 hover:scale-[1.01] active:scale-[0.99] transition-all cursor-pointer"
                   >
                     <span>{loading ? "Sending..." : "Send Enquiry"}</span>
-                    <Send className="w-4 h-4 ml-2" />
+                    <Send className="w-4 h-4 ml-1" />
                   </button>
                 </div>
               </form>

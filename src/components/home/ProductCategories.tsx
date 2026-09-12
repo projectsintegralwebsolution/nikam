@@ -60,13 +60,13 @@ export default function ProductCategories() {
                 </div>
               </div>
 
-              {/* Bottom Action: Authentic #010E3A Navy Blue Button matching Live Site */}
+              {/* Bottom Action: Corporate Navy Button with Orange Hover */}
               <div className="pt-5 sm:pt-6 mt-auto">
                 <Link
                   href={cat.link}
-                  className="inline-flex items-center justify-center gap-2 bg-[#010E3A] hover:bg-[#ff7522] text-white font-bold py-2.5 px-6 sm:px-8 rounded-lg border border-[#010E3A] hover:border-[#ff7522] shadow-[0_4px_12px_rgba(1,14,58,0.2)] hover:shadow-[0_8px_20px_rgba(255,117,34,0.3)] transition-all duration-300 text-xs sm:text-sm uppercase tracking-wider cursor-pointer group/btn w-full sm:w-auto"
+                  className="inline-flex items-center justify-center gap-2 bg-[#021330] hover:bg-gradient-to-r hover:from-[#ff7522] hover:to-[#e65e0d] text-white font-bold py-2.5 px-6 sm:px-8 rounded-xl border border-[#021330] hover:border-transparent shadow-md hover:shadow-lg hover:shadow-orange-950/20 transition-all duration-300 text-xs sm:text-sm uppercase tracking-wider cursor-pointer group/btn w-full sm:w-auto"
                 >
-                  <span>Learn More</span>
+                  <span>Explore Catalog</span>
                   <ArrowRight className="w-4 h-4 transition-transform duration-300 group-hover/btn:translate-x-1" />
                 </Link>
               </div>

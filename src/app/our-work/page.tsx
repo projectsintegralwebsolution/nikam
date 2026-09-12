@@ -236,21 +236,31 @@ export default function OurWorkPage() {
           </div>
 
           {/* Custom Fabrication CTA */}
-          <div className="bg-[#021330] rounded-2xl sm:rounded-3xl p-6 sm:p-10 lg:p-12 text-white border-4 border-[#ff7522]/30 flex flex-col md:flex-row items-center justify-between gap-6 sm:gap-8">
-            <div className="space-y-2 max-w-2xl text-center md:text-left">
-              <h3 className="text-xl sm:text-2xl lg:text-3xl font-extrabold font-heading text-white">
+          <div className="bg-[#021330] rounded-2xl sm:rounded-3xl p-6 sm:p-10 lg:p-12 text-white border-2 border-[#ff7522]/40 shadow-2xl flex flex-col md:flex-row items-center justify-between gap-6 sm:gap-8 relative overflow-hidden">
+            <div className="absolute top-0 right-0 w-96 h-96 bg-[#ff7522]/10 rounded-full blur-3xl pointer-events-none" />
+            <div className="space-y-3 max-w-2xl text-center md:text-left relative z-10">
+              <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#ff7522]/20 border border-[#ff7522]/40 text-[#ff7522] text-[11px] font-bold uppercase tracking-wider">
+                <span>Tailored Glassware Engineering</span>
+              </div>
+              <h3
+                className="text-xl sm:text-2xl lg:text-3xl font-black font-heading !text-white leading-tight"
+                style={{ color: "#ffffff" }}
+              >
                 Have a Custom Glassware Drawing or Specification?
               </h3>
-              <p className="text-xs sm:text-sm md:text-base text-gray-300">
-                Our engineering team fabricates specialized borosilicate and quartz items according to your exact CAD sketches or samples.
+              <p
+                className="text-xs sm:text-sm md:text-base text-slate-200 leading-relaxed font-normal"
+                style={{ color: "#e2e8f0" }}
+              >
+                Our engineering team fabricates specialized borosilicate and quartz items according to your exact CAD sketches, technical blueprints, or physical samples.
               </p>
             </div>
             <Link
               href="/contact-us"
-              className="btn-primary py-3 px-6 sm:px-8 text-xs uppercase font-bold tracking-wider whitespace-nowrap w-full sm:w-auto text-center"
+              className="inline-flex items-center justify-center gap-2 px-6 sm:px-8 py-3.5 rounded-xl bg-gradient-to-r from-[#ff7522] to-[#e65e0d] hover:from-[#ff853d] hover:to-[#ff7522] text-white text-xs sm:text-sm uppercase font-bold tracking-wider whitespace-nowrap w-full sm:w-auto text-center shadow-xl shadow-orange-950/25 hover:scale-105 active:scale-95 transition-all cursor-pointer relative z-10"
             >
               <span>Submit Custom Drawing</span>
-              <ArrowRight className="w-4 h-4 ml-1 inline-block" />
+              <ArrowRight className="w-4 h-4" />
             </Link>
           </div>
         </div>

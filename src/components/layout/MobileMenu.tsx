@@ -2,7 +2,8 @@
 
 import React, { useState } from "react";
 import Link from "next/link";
-import { X, ChevronDown, Phone, Mail, ArrowRight } from "lucide-react";
+import Image from "next/image";
+import { X, ChevronDown, Phone, Mail, ArrowRight, Sparkles } from "lucide-react";
 import { MAIN_NAV } from "@/data/navigation";
 import { COMPANY_INFO } from "@/data/company";
 import { useQuoteModal } from "@/components/forms/QuoteModalContext";
@@ -36,16 +37,22 @@ export default function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
       />
 
       {/* Drawer */}
-      <div className="fixed inset-y-0 right-0 w-full max-w-[310px] sm:max-w-xs bg-white shadow-2xl z-50 flex flex-col justify-between overflow-y-auto transform transition-transform duration-300 ease-in-out">
+      <div className="fixed inset-y-0 right-0 w-full max-w-[320px] sm:max-w-sm bg-white shadow-2xl z-50 flex flex-col justify-between overflow-y-auto transform transition-transform duration-300 ease-in-out">
         <div>
-          {/* Header */}
-          <div className="p-4 border-b border-gray-100 flex items-center justify-between">
-            <span className="text-sm font-bold uppercase tracking-wider text-gray-800 font-heading">
-              Menu
-            </span>
+          {/* Header with Logo */}
+          <div className="p-4 border-b border-gray-100 flex items-center justify-between bg-slate-50/50">
+            <Link href="/" onClick={onClose} className="block">
+              <Image
+                src="/demo-2/images/logo/ns-logo.png"
+                alt="Nikam Scientific Co."
+                width={220}
+                height={90}
+                className="w-[145px] sm:w-[165px] h-auto object-contain"
+              />
+            </Link>
             <button
               onClick={onClose}
-              className="min-w-[44px] min-h-[44px] rounded-full text-gray-500 hover:text-gray-900 hover:bg-gray-100 flex items-center justify-center transition-colors"
+              className="min-w-[44px] min-h-[44px] rounded-xl text-gray-500 hover:text-gray-900 hover:bg-gray-200/70 flex items-center justify-center transition-colors cursor-pointer"
               aria-label="Close menu"
             >
               <X className="w-5 h-5" />

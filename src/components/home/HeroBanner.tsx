@@ -126,7 +126,7 @@ export default function HeroBanner() {
       {/* 4-Box Stats Counter Floating Cards Matching Section 6a49276 on Live Site */}
       <div className="bg-gradient-to-b from-slate-50/50 to-white pt-8 sm:pt-10 md:pt-12 pb-6 relative z-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-5 lg:gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-5 lg:gap-6">
             {COMPANY_INFO.stats.map((st, idx) => {
               const icons = [Award, FlaskConical, Users, Building2];
               const Icon = icons[idx];

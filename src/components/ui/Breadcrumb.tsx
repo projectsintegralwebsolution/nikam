@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { ChevronRight, Home } from "lucide-react";
+import { ChevronRight, Home, ShieldCheck } from "lucide-react";
 
 interface BreadcrumbProps {
   title: string;
@@ -17,7 +17,7 @@ export default function Breadcrumb({
 }: BreadcrumbProps) {
   return (
     <div
-      className="relative bg-[#121315] py-10 sm:py-16 md:py-20 lg:py-24 overflow-hidden bg-cover bg-center"
+      className="relative bg-[#021330] py-12 sm:py-16 md:py-20 lg:py-24 overflow-hidden bg-cover bg-center"
       style={{
         backgroundImage: `url(${bgImage})`,
         backgroundPosition: "center center",
@@ -25,47 +25,64 @@ export default function Breadcrumb({
         backgroundSize: "cover",
       }}
     >
-      {/* Zero dark overlay - Authentic bright background image as on live site */}
+      {/* Classic Deep Navy Gradient Overlay for optimal contrast & high-end elegance */}
+      <div className="absolute inset-0 bg-gradient-to-r from-[#021330]/96 via-[#021330]/88 to-[#000E30]/92 backdrop-brightness-90" />
+      <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_var(--tw-gradient-stops))] from-[#ff7522]/15 via-transparent to-transparent pointer-events-none" />
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 z-10">
-        <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold text-white font-heading tracking-wide mb-2 drop-shadow-[0_2px_4px_rgba(0,0,0,0.7)] break-words">
+        {/* Category / Company Pill Badge */}
+        <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#ff7522]/20 border border-[#ff7522]/40 text-[#ff7522] text-[11px] sm:text-xs font-black uppercase tracking-widest backdrop-blur-md mb-3 sm:mb-4 shadow-inner">
+          <ShieldCheck className="w-3.5 h-3.5 text-[#ff7522]" />
+          <span>NIKAM SCIENTIFIC • PRECISION LABORATORY GLASSWARE</span>
+        </div>
+
+        {/* High Contrast Crisp White Heading */}
+        <h1
+          className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black text-white font-heading tracking-tight drop-shadow-md break-words !text-white leading-tight"
+          style={{ color: "#ffffff" }}
+        >
           {title}
         </h1>
 
         {subtitle && (
-          <p className="text-white text-xs sm:text-sm md:text-base max-w-2xl mb-4 font-medium drop-shadow-[0_1px_3px_rgba(0,0,0,0.6)]">
+          <p className="text-slate-200 text-xs sm:text-sm md:text-base max-w-2xl mt-2 mb-4 font-normal leading-relaxed">
             {subtitle}
           </p>
         )}
 
         {items && items.length > 0 && (
-          <nav className="inline-flex flex-wrap items-center gap-1.5 sm:gap-2 px-3 sm:px-3.5 py-1.5 bg-black/50 backdrop-blur-xs rounded-md text-xs sm:text-sm text-gray-100 border border-white/20">
-            <Link
-              href="/"
-              className="flex items-center gap-1 hover:text-[#ff7522] transition-colors"
-            >
-              <Home className="w-3.5 h-3.5" />
-              <span>Home</span>
-            </Link>
+          <div className="pt-3">
+            <nav className="inline-flex flex-wrap items-center gap-2 px-4 py-2 bg-white/10 backdrop-blur-md rounded-full text-xs sm:text-sm text-slate-200 border border-white/20 shadow-md">
+              <Link
+                href="/"
+                className="flex items-center gap-1.5 hover:text-[#ff7522] transition-colors font-medium"
+              >
+                <Home className="w-3.5 h-3.5 text-[#ff7522]" />
+                <span>Home</span>
+              </Link>
 
-            {items.map((item, idx) => (
-              <React.Fragment key={idx}>
-                <ChevronRight className="w-3.5 h-3.5 text-gray-300" />
-                {item.href ? (
-                  <Link
-                    href={item.href}
-                    className="hover:text-[#ff7522] transition-colors"
-                  >
-                    {item.label}
-                  </Link>
-                ) : (
-                  <span className="text-[#ff7522] font-semibold">{item.label}</span>
-                )}
-              </React.Fragment>
-            ))}
-          </nav>
+              {items.map((item, idx) => (
+                <React.Fragment key={idx}>
+                  <ChevronRight className="w-3.5 h-3.5 text-slate-400" />
+                  {item.href ? (
+                    <Link
+                      href={item.href}
+                      className="hover:text-[#ff7522] transition-colors font-medium text-slate-200"
+                    >
+                      {item.label}
+                    </Link>
+                  ) : (
+                    <span className="text-[#ff7522] font-bold">{item.label}</span>
+                  )}
+                </React.Fragment>
+              ))}
+            </nav>
+          </div>
         )}
       </div>
+
+      {/* Subtle bottom orange accent line */}
+      <div className="absolute bottom-0 inset-x-0 h-1 bg-gradient-to-r from-[#ff7522] via-[#ffca3b] to-transparent" />
     </div>
   );
 }
