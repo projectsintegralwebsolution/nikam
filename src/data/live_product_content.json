@@ -1,0 +1,3583 @@
+{
+  "burettes": {
+    "id": 18741,
+    "slug": "burettes",
+    "category": "glassware",
+    "title": "Burettes",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Laboratory Burettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Class A Accuracy"
+      },
+      {
+        "tag": "h3",
+        "text": "Leak-Proof Stopcock"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Graduations"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Capacities"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Flow Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Class A Accuracy"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Graduations"
+      },
+      {
+        "tag": "h3",
+        "text": "Leak-Proof Stopcock"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Flow Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Capacities"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Precision Burettes for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific burettes are manufactured from high-quality borosilicate glass for excellent chemical resistance and durability. Their clear graduations and leak-proof stopcock support precise liquid measurement, controlled dispensing and smooth titration across laboratory applications.",
+      "A laboratory burette is used to measure and dispense precise liquid volumes, especially during titration and quantitative chemical analysis.",
+      "Nikam Scientific burettes are available in 10 ml, 25 ml, 50 ml and 100 ml capacities. Additional sizes may be supplied based on requirements.",
+      "Class A burettes are designed to meet defined accuracy requirements. Mention certification only when the supplied product has valid supporting documentation.",
+      "The burettes feature a PTFE stopcock designed for smooth flow control and dependable, leak-resistant operation.",
+      "Yes. Laboratories, distributors, pharmaceutical companies and educational institutions can contact Nikam Scientific for bulk requirements and quotations.",
+      "Contact Nikam Scientific for product details, technical assistance and competitive quotations."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Burettes.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "pipettes": {
+    "id": 17514,
+    "slug": "pipettes",
+    "category": "glassware",
+    "title": "Pipettes",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Laboratory Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Accurate Measurement"
+      },
+      {
+        "tag": "h3",
+        "text": "Smooth Liquid Transfer"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Graduations"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Capacities"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Handling"
+      },
+      {
+        "tag": "h3",
+        "text": "Accurate Measurement"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Graduations"
+      },
+      {
+        "tag": "h3",
+        "text": "Smooth Liquid Transfer"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Handling"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Capacities"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Precision Pipettes for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific laboratory pipettes are manufactured from quality borosilicate glass for accurate measurement and controlled transfer of liquids. Their clear graduations and smooth construction make them suitable for routine testing, research and educational laboratory work.",
+      "A laboratory pipette is used to accurately measure, transfer and dispense specific quantities of liquid during testing, analysis and sample preparation.",
+      "Laboratory pipettes are commonly available as graduated, volumetric and measuring pipettes for different laboratory procedures.",
+      "Our glass laboratory pipettes are manufactured from quality borosilicate glass for chemical resistance, clarity and reliable performance.",
+      "Available capacities may include 1 ml, 2 ml, 5 ml, 10 ml, 25 ml and 50 ml, depending on the selected pipette type.",
+      "Yes. Contact Nikam Scientific with your required type, capacity and quantity to receive product availability and quotation details.",
+      "Contact Nikam Scientific for reliable laboratory pipettes, product guidance and competitive quotations."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Pipettes-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "measuring-volumetric-flasks": {
+    "id": 17542,
+    "slug": "measuring-volumetric-flasks",
+    "category": "glassware",
+    "title": "Measuring / Volumetric Flasks",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Measuring / Volumetric Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Accurate Calibration"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Volume Mark"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Capacities"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Stopper"
+      },
+      {
+        "tag": "h3",
+        "text": "Accurate Calibration"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Volume Mark"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Stopper"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Capacities"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Accurate Volumetric Flasks for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific volumetric flasks are manufactured from quality borosilicate glass for accurate preparation and measurement of liquid solutions. Each flask features a defined calibration mark, narrow neck and stable base for dependable laboratory use.",
+      "A volumetric flask is used to prepare and contain a precise volume of liquid solution for laboratory testing, analysis and research.",
+      "A volumetric flask is designed for preparing one precise volume, while a measuring cylinder can measure different liquid volumes.",
+      "Our volumetric flasks are manufactured from quality borosilicate glass for clarity, durability and chemical resistance.",
+      "Available capacities may include 10 ml, 25 ml, 50 ml, 100 ml, 250 ml, 500 ml and 1000 ml, depending on the model.",
+      "Class A and Class B options may be available depending on the required capacity and product specification. Contact our team for details.",
+      "Contact Nikam Scientific for dependable volumetric flasks, product guidance and competitive quotations."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Measuring-Volumetric-Flasks-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "tube": {
+    "id": 17551,
+    "slug": "tube",
+    "category": "glassware",
+    "title": "Tube",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Laboratory Test Tubes"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Glass Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Smooth Rounded Base"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Heat Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Sizes"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Sample Observation"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Glass Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Heat Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Smooth Rounded Base"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Sample Observation"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Sizes"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Reliable Test Tubes for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific laboratory test tubes are manufactured from quality borosilicate glass for reliable sample handling, mixing and heating. Their clear construction allows easy observation, while the smooth surface supports convenient cleaning and routine laboratory use.",
+      "Laboratory test tubes are used to hold, mix, heat and observe small quantities of liquid or chemical samples.",
+      "Our laboratory test tubes are manufactured from quality borosilicate glass for clarity, durability and heat resistance.",
+      "Borosilicate glass test tubes are suitable for controlled laboratory heating. Heating limits should follow the applicable product specifications.",
+      "Test tubes are available in different diameters, lengths and capacities. Contact our team for the complete size range.",
+      "Yes. Share your required tube type, dimensions and quantity with our team to receive availability and quotation details.",
+      "Contact Nikam Scientific for quality laboratory test tubes, product assistance and competitive quotations."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "distillation-apparatus-parts-condensers": {
+    "id": 17560,
+    "slug": "distillation-apparatus-parts-condensers",
+    "category": "glassware",
+    "title": "Distillation Apparatus Parts (Condensers)",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Distillation Apparatus Parts"
+      },
+      {
+        "tag": "h3",
+        "text": "Efficient Vapour Cooling"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Glass Joints"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Configurations"
+      },
+      {
+        "tag": "h3",
+        "text": "Smooth Water Circulation"
+      },
+      {
+        "tag": "h3",
+        "text": "Efficient Vapour Cooling"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Glass Joints"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Smooth Water Circulation"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Configurations"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Reliable Condensers for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific laboratory condensers are manufactured from quality borosilicate glass for efficient cooling and condensation of vapours. Designed for reliable water circulation and secure apparatus connections, they are suitable for distillation, reflux and other laboratory procedures.",
+      "A laboratory condenser cools hot vapours and converts them into liquid during distillation, reflux and solvent-recovery procedures.",
+      "Cool water flows through the outer jacket while vapour passes through the inner glass tube. Heat transfer causes the vapour to condense.",
+      "Our laboratory condensers are manufactured from quality borosilicate glass for clarity, chemical resistance and dependable thermal performance.",
+      "Different models, including Liebig and Allihn-type condensers, may be available depending on the required laboratory application.",
+      "Available joint sizes and condenser lengths depend on the selected model. Share your technical requirements with our team for confirmation.",
+      "Contact Nikam Scientific for laboratory condensers, distillation parts and product selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Distillation-Apparatus-Parts-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "standard-joints-stoppers-adapters": {
+    "id": 17564,
+    "slug": "standard-joints-stoppers-adapters",
+    "category": "glassware",
+    "title": "Standard Joints , Stoppers, Adapters",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Standard Joints, Stoppers &#038; Adapters"
+      },
+      {
+        "tag": "h3",
+        "text": "Precision-Ground Surfaces"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Apparatus Connection"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Joint Sizes"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Assembly"
+      },
+      {
+        "tag": "h3",
+        "text": "Precision-Ground Surfaces"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Apparatus Connection"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Assembly"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Joint Sizes"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Reliable Glass Joints and Adapters?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific standard joints, stoppers and adapters are manufactured from quality borosilicate glass for connecting different laboratory glassware components. Their precision-ground surfaces support secure fitting, convenient assembly and dependable performance during distillation, filtration and chemical procedures.",
+      "Standard ground-glass joints securely connect compatible laboratory components without requiring permanent seals.",
+      "A glass adapter connects laboratory components with different joint sizes, directions or configurations.",
+      "Our laboratory joints, stoppers and adapters are manufactured from quality borosilicate glass for durability and chemical resistance.",
+      "Different standard joint sizes may be available depending on the product type and apparatus requirement.",
+      "Custom adapter configurations may be manufactured according to an approved drawing, sample and technical feasibility.",
+      "Contact Nikam Scientific for standard joints, stoppers, adapters and product selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Standard-Joints-Stoppers-Adapters-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "flasks": {
+    "id": 17576,
+    "slug": "flasks",
+    "category": "glassware",
+    "title": "Flasks",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Laboratory Glass Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Reliable Heat Resistance"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Sample Visibility"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Capacities"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Flask Types"
+      },
+      {
+        "tag": "h3",
+        "text": "Reliable Heat Resistance"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Sample Visibility"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Flask Types"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Capacities"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Reliable Flasks for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific laboratory flasks are manufactured from quality borosilicate glass for mixing, heating, boiling and conducting chemical reactions. Available in different shapes and capacities, they provide clear visibility and dependable performance across routine and specialised laboratory procedures.",
+      "Laboratory flasks are used for mixing, heating, boiling, storing and conducting chemical reactions with liquid samples.",
+      "Available options may include conical, round-bottom, flat-bottom and boiling flasks in different neck designs.",
+      "Our laboratory flasks are manufactured from quality borosilicate glass for clarity, heat resistance and chemical durability.",
+      "Borosilicate flasks are generally suitable for controlled heating. The appropriate flask type and safe heating method should be selected for each procedure.",
+      "Laboratory flasks are available in multiple capacities depending on the flask type and application. Contact our team for exact options.",
+      "Contact Nikam Scientific for laboratory glass flasks, product guidance and competitive quotations."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg"
+    ]
+  },
+  "still-heads-splash-heads": {
+    "id": 17583,
+    "slug": "still-heads-splash-heads",
+    "category": "glassware",
+    "title": "Still Heads-Splash Heads",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Still Heads &#038; Splash Heads"
+      },
+      {
+        "tag": "h3",
+        "text": "Precision Glass Joints"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Reduced Liquid Carryover"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Configurations"
+      },
+      {
+        "tag": "h3",
+        "text": "Controlled Vapour Transfer"
+      },
+      {
+        "tag": "h3",
+        "text": "Precision Glass Joints"
+      },
+      {
+        "tag": "h3",
+        "text": "Reduced Liquid Carryover"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Controlled Vapour Transfer"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Configurations"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Still Heads for Your Distillation Setup?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific still heads and splash heads are manufactured from quality borosilicate glass for use in laboratory distillation assemblies. Still heads guide vapour towards the condenser, while splash heads help reduce liquid droplets and foam entering the vapour path.",
+      "A still head connects a boiling flask to a condenser and guides vapour through the laboratory distillation assembly.",
+      "A splash head helps prevent liquid droplets, foam and splashes from entering the condenser or vapour-transfer line.",
+      "Our still heads and splash heads are manufactured from quality borosilicate glass for clarity, chemical resistance and thermal performance.",
+      "Different standard ground-glass joint sizes may be available depending on the selected design and apparatus requirements.",
+      "Custom configurations may be produced according to an approved drawing, sample and technical feasibility.",
+      "Contact Nikam Scientific for still heads, splash heads and distillation glassware assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Still-Heads-Splash-Heads.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "miscellaneous-fitting": {
+    "id": 17593,
+    "slug": "miscellaneous-fitting",
+    "category": "glassware",
+    "title": "Miscellaneous Fitting",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Miscellaneous Glass Fittings"
+      },
+      {
+        "tag": "h3",
+        "text": "Precision Glass Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Apparatus Connections"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Configurations"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Options Available"
+      },
+      {
+        "tag": "h3",
+        "text": "Precision Glass Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Apparatus Connections"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Options Available"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Configurations"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Specialised Glass Fittings for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific miscellaneous glass fittings are manufactured from quality borosilicate glass to connect, modify and complete laboratory apparatus. Available in different shapes, joint arrangements and configurations, these fittings support routine experiments and specialised glassware assemblies.",
+      "They are specialised glass components used to connect, adapt or complete different laboratory glassware assemblies.",
+      "Our laboratory fittings are manufactured from quality borosilicate glass for chemical resistance, clarity and dependable performance.",
+      "Available products may include connecting, reducing, bent, multi-neck, gas-transfer and other specialised glass fittings.",
+      "Yes, various standard ground-glass joint sizes may be available depending on the fitting design and application.",
+      "Custom fittings may be produced according to an approved technical drawing, physical sample and manufacturing feasibility.",
+      "Contact Nikam Scientific for laboratory fittings, custom configurations and technical product assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Miscellaneous-Fitting.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "stirrers": {
+    "id": 17605,
+    "slug": "stirrers",
+    "category": "glassware",
+    "title": "Stirrers",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Laboratory Stirrers"
+      },
+      {
+        "tag": "h3",
+        "text": "Efficient Solution Mixing"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Glass Shaft"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical-Resistant Blade"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Sizes Available"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Blade Designs"
+      },
+      {
+        "tag": "h3",
+        "text": "Smooth Stirring Action"
+      },
+      {
+        "tag": "h3",
+        "text": "Efficient Solution Mixing"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Sizes Available"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Glass Shaft"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical-Resistant Blade"
+      },
+      {
+        "tag": "h3",
+        "text": "Smooth Stirring Action"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Blade Designs"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Reliable Stirrers for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific laboratory stirrers are designed for efficient mixing, blending and agitation of chemical solutions. Available with durable glass shafts and chemical-resistant PTFE blades, they support uniform mixing across routine laboratory and research applications.",
+      "Laboratory stirrers are used to mix, blend and agitate chemical solutions during preparation, testing and research procedures.",
+      "Depending on the model, laboratory stirrers may include a borosilicate glass shaft and a chemical-resistant PTFE blade.",
+      "PTFE blades offer good chemical resistance and are suitable for mixing many laboratory solutions.",
+      "Different shaft lengths, blade sizes and configurations may be available according to the intended mixing application.",
+      "Custom shaft lengths and blade designs may be produced according to an approved drawing, sample and technical feasibility.",
+      "Contact Nikam Scientific for laboratory stirrers, available configurations and product assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Stirrers-New.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "separating-dropping-funnels": {
+    "id": 17615,
+    "slug": "separating-dropping-funnels",
+    "category": "glassware",
+    "title": "Separating / Dropping Funnels",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Separating &#038; Dropping Funnels"
+      },
+      {
+        "tag": "h3",
+        "text": "Precision Stopcock"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Controlled Liquid Flow"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Capacities"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Stopper Fit"
+      },
+      {
+        "tag": "h3",
+        "text": "Precision Stopcock"
+      },
+      {
+        "tag": "h3",
+        "text": "Controlled Liquid Flow"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Stopper Fit"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Capacities"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Funnels for Separation or Liquid Addition?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific separating and dropping funnels are manufactured from quality borosilicate glass for reliable liquid separation and controlled reagent addition. Their clear construction, precision stopcocks and secure closures support convenient handling across chemical, research and analytical procedures.",
+      "A separating funnel separates immiscible liquid layers based on their different densities during solvent extraction and chemical analysis.",
+      "A dropping funnel gradually adds a liquid reagent to a reaction vessel while allowing controlled adjustment of the flow rate.",
+      "Separating funnels separate liquid layers, while dropping funnels control the addition of liquid reagents during reactions.",
+      "The funnels are generally manufactured from borosilicate glass and may include glass or PTFE stopcocks, depending on the model.",
+      "Different capacities and designs may be available depending on the required laboratory procedure. Contact our team for exact options.",
+      "Contact Nikam Scientific for separating funnels, dropping funnels and product selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Separating-Dropping-Funnels.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "fractionating-columns": {
+    "id": 17627,
+    "slug": "fractionating-columns",
+    "category": "glassware",
+    "title": "Fractionating Columns",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Fractionating Columns"
+      },
+      {
+        "tag": "h3",
+        "text": "Precision Glass Joints"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Efficient Vapour Separation"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Column Designs"
+      },
+      {
+        "tag": "h3",
+        "text": "Improved Vapour–Liquid Contact"
+      },
+      {
+        "tag": "h3",
+        "text": "Precision Glass Joints"
+      },
+      {
+        "tag": "h3",
+        "text": "Efficient Vapour Separation"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Improved Vapour–Liquid Contact"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Column Designs"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Efficient Fractionating Columns for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific fractionating columns are manufactured from quality borosilicate glass for the separation and purification of liquid mixtures. Designed to improve vapour–liquid contact, these columns support efficient fractional distillation in chemical, research and educational laboratories.",
+      "A fractionating column separates liquid components with close boiling points during laboratory fractional distillation.",
+      "It creates repeated vaporisation and condensation stages, helping separate vapour components according to their boiling points.",
+      "Our fractionating columns are manufactured from quality borosilicate glass for clarity, chemical resistance and reliable thermal performance.",
+      "Vigreux, packed and other column designs may be available depending on the required distillation procedure.",
+      "Different column lengths, diameters and ground-glass joint sizes may be available. Contact our team for exact specifications.",
+      "Contact Nikam Scientific for fractionating columns, specifications and product-selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Fractionating-Columns.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "distillation-apparatus": {
+    "id": 17681,
+    "slug": "distillation-apparatus",
+    "category": "glassware",
+    "title": "Distillation Apparatus",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Distillation Apparatus"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Glass Connections"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Efficient Liquid Separation"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Configurations"
+      },
+      {
+        "tag": "h3",
+        "text": "Controlled Vapour Transfer"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Glass Connections"
+      },
+      {
+        "tag": "h3",
+        "text": "Efficient Liquid Separation"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Controlled Vapour Transfer"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Configurations"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need a Reliable Distillation Apparatus?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific distillation apparatus is manufactured from quality borosilicate glass for separating and purifying liquid mixtures. Designed with compatible flasks, condensers, receivers and connecting components, the apparatus supports reliable vapour transfer and condensation during laboratory procedures.",
+      "A laboratory distillation apparatus separates and purifies liquid mixtures by controlled heating, vaporisation, condensation and collection.",
+      "A typical setup includes a distillation flask, still head, condenser, receiver, glass joints and other connecting components.",
+      "The glass components are manufactured from quality borosilicate glass for clarity, chemical resistance and dependable thermal performance.",
+      "Simple distillation is generally used for liquids with widely different boiling points, while fractional distillation improves the separation of liquids with closer boiling points.",
+      "Custom configurations may be manufactured according to an approved drawing, sample, required capacity and technical feasibility.",
+      "Contact Nikam Scientific for laboratory distillation systems, compatible components and product-selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Distillation-Apparatus-Parts-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "chromatography-apparatus": {
+    "id": 17697,
+    "slug": "chromatography-apparatus",
+    "category": "glassware",
+    "title": "Chromatography Apparatus",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Chromatography Apparatus"
+      },
+      {
+        "tag": "h3",
+        "text": "Precision Flow Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Process Visibility"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Configurations"
+      },
+      {
+        "tag": "h3",
+        "text": "Controlled Sample Separation"
+      },
+      {
+        "tag": "h3",
+        "text": "Precision Flow Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Process Visibility"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Controlled Sample Separation"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Configurations"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Chromatography Apparatus for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific chromatography apparatus is manufactured from quality borosilicate glass for separating, purifying and analysing compounds within liquid mixtures. The clear glass construction, controlled outlet and compatible fittings support reliable operation in chemical, pharmaceutical and research laboratories.",
+      "Chromatography apparatus separates, purifies and analyses different components present within a sample mixture.",
+      "A sample moves through a packed stationary phase, allowing its components to separate according to their different interactions and flow rates.",
+      "The glass components are manufactured from quality borosilicate glass for clarity, chemical resistance and dependable laboratory use.",
+      "Plain, jacketed and other column configurations may be available depending on the laboratory process and technical requirements.",
+      "Custom apparatus may be produced according to an approved drawing, sample, required dimensions and technical feasibility.",
+      "Contact Nikam Scientific for chromatography columns, compatible fittings and product-selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Chromatography-Apparatus.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "beakers": {
+    "id": 17703,
+    "slug": "beakers",
+    "category": "glassware",
+    "title": "Beakers",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Laboratory Beakers"
+      },
+      {
+        "tag": "h3",
+        "text": "Reliable Heat Resistance"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Convenient Pouring Spout"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Capacities"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Flow Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Reliable Heat Resistance"
+      },
+      {
+        "tag": "h3",
+        "text": "Convenient Pouring Spout"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Flow Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Capacities"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Reliable Beakers for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific laboratory beakers are manufactured from quality borosilicate glass for mixing, heating and handling liquid samples. Their clear construction, convenient pouring spout and approximate graduations support dependable everyday use in research, testing and educational laboratories.",
+      "Laboratory beakers are used for mixing, heating, holding and transferring liquids during experiments and routine laboratory procedures.",
+      "Beaker graduations provide approximate volume readings. Calibrated volumetric glassware should be used when high measurement accuracy is required.",
+      "Our laboratory beakers are manufactured from quality borosilicate glass for clarity, chemical resistance and dependable thermal performance.",
+      "Borosilicate beakers are generally suitable for controlled laboratory heating when proper equipment and safe heating practices are used.",
+      "Different capacities and form options may be available depending on the product range. Contact our team for exact specifications.",
+      "Contact Nikam Scientific for laboratory glass beakers, available capacities and product assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Beakers.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "bottles": {
+    "id": 17709,
+    "slug": "bottles",
+    "category": "glassware",
+    "title": "Bottles",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Laboratory Glass Bottles"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Sample Visibility"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Leak-Resistant Closure"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Capacities"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Liquid Handling"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Sample Visibility"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Leak-Resistant Closure"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Liquid Handling"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Capacities"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Reliable Bottles for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific laboratory bottles are manufactured from quality borosilicate glass for storing, handling and transporting reagents, samples and chemical solutions. Their clear construction, secure closures and practical designs support dependable use across research, testing and educational laboratories.",
+      "Laboratory glass bottles are used to store, handle and transport reagents, samples, media and chemical solutions.",
+      "Our laboratory bottles are manufactured from quality borosilicate glass for clarity, durability and chemical resistance.",
+      "Clear bottles allow easy viewing of contents, while amber bottles help protect light-sensitive materials from exposure.",
+      "Depending on the model, laboratory bottles may be supplied with glass stoppers, screw caps or other compatible closures.",
+      "Different capacities, mouth designs and closure options may be available. Contact our team for exact specifications.",
+      "Contact Nikam Scientific for laboratory glass bottles, available capacities and product assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Bottles.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "gas-apparatus": {
+    "id": 17715,
+    "slug": "gas-apparatus",
+    "category": "glassware",
+    "title": "Gas Apparatus",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Gas Apparatus"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Process Visibility"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Glass Connections"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Configurations"
+      },
+      {
+        "tag": "h3",
+        "text": "Controlled Gas Transfer"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Process Visibility"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Glass Connections"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical Resistant"
+      },
+      {
+        "tag": "h3",
+        "text": "Controlled Gas Transfer"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Configurations"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Gas Apparatus for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific gas apparatus is manufactured from quality borosilicate glass for generating, washing, drying, collecting and transferring laboratory gases. Its clear construction and compatible connections support convenient observation and dependable operation across research, testing and educational applications.",
+      "Laboratory gas apparatus is used for controlled generation, washing, drying, collection and transfer of gases during scientific procedures.",
+      "A gas-washing bottle passes gas through a suitable liquid to help remove impurities or absorb selected components.",
+      "The glass components are manufactured from quality borosilicate glass for clarity, durability and chemical resistance.",
+      "Available configurations depend on the required process, gas type, capacity and connection arrangement.",
+      "Custom configurations may be manufactured according to an approved drawing, physical sample and technical feasibility.",
+      "Contact Nikam Scientific for laboratory gas apparatus, compatible fittings and product-selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Gas-Apparatus.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "miscellaneous-apparatus": {
+    "id": 17721,
+    "slug": "miscellaneous-apparatus",
+    "category": "glassware",
+    "title": "Miscellaneous Apparatus",
+    "headings": [
+      {
+        "tag": "h3",
+        "text": "Our Products"
+      },
+      {
+        "tag": "h3",
+        "text": "Laboratory Glassware Products"
+      },
+      {
+        "tag": "h3",
+        "text": "download brochure"
+      },
+      {
+        "tag": "h6",
+        "text": "Let’s Start Work Together"
+      },
+      {
+        "tag": "h5",
+        "text": "+91 9422685973"
+      },
+      {
+        "tag": "h2",
+        "text": "High-Quality Miscellaneous Apparatus for Diverse Laboratory Applications"
+      },
+      {
+        "tag": "h2",
+        "text": "Key Features"
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h2",
+        "text": "Why Choose Nikam Scientific Miscellaneous Apparatus?"
+      },
+      {
+        "tag": "h2",
+        "text": "Looking for High-Quality Miscellaneous Apparatus?"
+      }
+    ],
+    "paragraphs": [
+      "Laboratory Glassware\n\r\n            \r\n            Laboratory Equipments\n\r\n            \r\n            Industrial Processing Unit\n            \r\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\r\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\n\t\n\t\t\n\t\t\t\n\t\t\t\t\t\t\tLaboratory Glassware Products\t\n\t\t\t\t\n\t\t\n\t\n \t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\tBurettes 1\nPipettes\nMeasuring / Volumetric Flasks\nTube\nDistillation Apparatus Parts (Condensers)\nStandard Joints , Stoppers, Adapters\nFlasks\nStill Heads-Splash Heads\nMiscellaneous Fitting\nStirrers\nSeparating / Dropping Funnels\nFractionating Columns\nDistillation Apparatus\nChromatography Apparatus\nBeakers\nBottles\nGas Apparatus\nMiscellaneous Apparatus\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\tBurettes 1\nPipettes\nMeasuring / Volumetric Flasks\nTube\nDistillation Apparatus Parts (Condensers)\nStandard Joints , Stoppers, Adapters\nFlasks\nStill Heads-Splash Heads\nMiscellaneous Fitting\nStirrers\nSeparating / Dropping Funnels\nFractionating Columns\nDistillation Apparatus\nChromatography Apparatus\nBeakers\nBottles\nGas Apparatus\nMiscellaneous Apparatus\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\n\t\n\t\t\n\t\t\t\n\t\t\t\t\t\t\tdownload brochure\t\n\t\t\t\t\n\t\t\n\t\n \t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\n\t\tExplore our complete range of laboratory glassware, scientific equipment, and industrial solutions. Download our brochure to learn more about our products, specifications, and capabilities.",
+      "info@nikamscientific.in",
+      "Nikam Scientific Co. offers a comprehensive range of Miscellaneous Apparatus designed to support a wide variety of laboratory, research, and industrial applications. Manufactured from high-quality borosilicate glass, our apparatus provides excellent chemical resistance, thermal stability, and exceptional durability, ensuring reliable performance in demanding laboratory environments.",
+      "Our miscellaneous apparatus is precision-engineered to meet the diverse requirements of modern laboratories, offering dependable solutions for scientific experiments, analytical testing, chemical processing, and educational applications. Every product is manufactured under stringent quality control standards to deliver consistent performance, safety, and long service life.",
+      "Our Miscellaneous Apparatus is widely used in:",
+      "With nearly 30 years of manufacturing excellence, Nikam Scientific Co. delivers precision-engineered miscellaneous laboratory apparatus that combines superior quality, durability, and reliable performance. Every product undergoes rigorous quality inspection to ensure it meets the highest laboratory standards and customer expectations.",
+      "Contact our team to find the right miscellaneous apparatus for your laboratory or industrial application. We also manufacture customized scientific glassware solutions tailored to your specific requirements."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Miscellaneous-Apparatus.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/nikam-logo.png"
+    ]
+  },
+  "laboratory-ovens": {
+    "id": 17747,
+    "slug": "laboratory-ovens",
+    "category": "equipment",
+    "title": "Laboratory Ovens",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Laboratory Ovens"
+      },
+      {
+        "tag": "h3",
+        "text": "Adjustable Temperature Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Uniform Heat Distribution"
+      },
+      {
+        "tag": "h3",
+        "text": "Insulated Chamber"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Chamber Sizes"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Operation"
+      },
+      {
+        "tag": "h3",
+        "text": "Adjustable Temperature Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Insulated Chamber"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Uniform Heat Distribution"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Operation"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Chamber Sizes"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need a Reliable Oven for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific laboratory ovens are designed to provide controlled and uniform heating for drying, sterilisation, heat treatment and thermal testing. Their insulated construction, adjustable temperature controls and practical chamber design support dependable operation across research, testing and industrial laboratories.",
+      "A laboratory oven provides controlled heating for drying samples, sterilising suitable materials, thermal testing and other laboratory procedures.",
+      "A laboratory oven generally operates at higher temperatures for heating and drying, while an incubator maintains controlled conditions for biological samples.",
+      "Suitable heat-resistant glassware may be sterilised using dry heat when the correct temperature, duration and approved procedure are followed.",
+      "The available temperature range depends on the selected oven model and controller. Contact our team for exact technical specifications.",
+      "Different chamber capacities and shelf configurations may be available based on laboratory requirements and the selected model.",
+      "Contact Nikam Scientific for laboratory ovens, technical specifications and product-selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Laboratory-Ovens.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "lab-water-bath": {
+    "id": 17758,
+    "slug": "lab-water-bath",
+    "category": "equipment",
+    "title": "Lab Water Bath",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Laboratory Water Bath"
+      },
+      {
+        "tag": "h3",
+        "text": "Uniform Temperature Distribution"
+      },
+      {
+        "tag": "h3",
+        "text": "Adjustable Temperature Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Corrosion-Resistant Chamber"
+      },
+      {
+        "tag": "h3",
+        "text": "Insulated Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Chamber Sizes"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Operation"
+      },
+      {
+        "tag": "h3",
+        "text": "Uniform Temperature Distribution"
+      },
+      {
+        "tag": "h3",
+        "text": "Insulated Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Adjustable Temperature Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Corrosion-Resistant Chamber"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Operation"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Chamber Sizes"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need a Reliable Water Bath for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific laboratory water baths are designed for controlled and uniform heating of samples without direct flame exposure. Their insulated construction, adjustable temperature control and practical chamber design support dependable use in research, pharmaceutical, testing and educational laboratories.",
+      "A laboratory water bath provides controlled indirect heating for samples, reagents, incubation procedures and other temperature-sensitive applications.",
+      "An electric heating element warms the water inside the chamber, while a controller helps maintain the selected operating temperature.",
+      "A water bath provides gentle and uniform heating without exposing samples directly to a flame or concentrated heat source.",
+      "The available temperature range depends on the selected water-bath model and controller. Contact our team for exact specifications.",
+      "Different chamber capacities and hole configurations may be available according to laboratory requirements and the selected model.",
+      "Contact Nikam Scientific for laboratory water baths, technical specifications and product-selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Lab-Water-Bath.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "bod-incubator": {
+    "id": 17764,
+    "slug": "bod-incubator",
+    "category": "equipment",
+    "title": "BOD Incubator",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "BOD Incubator"
+      },
+      {
+        "tag": "h3",
+        "text": "Precise Temperature Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Insulated Chamber"
+      },
+      {
+        "tag": "h3",
+        "text": "Uniform Air Circulation"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Chamber Sizes"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Digital Operation"
+      },
+      {
+        "tag": "h3",
+        "text": "Precise Temperature Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Uniform Air Circulation"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Insulated Chamber"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Digital Operation"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Chamber Sizes"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need a Reliable BOD Incubator for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific BOD incubators are designed to maintain stable and uniform temperatures for biological oxygen demand testing, sample incubation and controlled laboratory studies. Their insulated chamber, adjustable temperature controller and efficient air circulation support dependable performance across environmental, research and quality-control laboratories.",
+      "A BOD incubator maintains controlled temperatures for biochemical oxygen demand testing, biological studies and environmental sample incubation.",
+      "It uses heating, cooling and air circulation systems to maintain a stable temperature throughout the insulated chamber.",
+      "A BOD incubator maintains moderate controlled temperatures for biological samples, while a laboratory oven uses higher temperatures for heating and drying.",
+      "The temperature range depends on the selected BOD incubator model and controller. Contact our team for exact specifications.",
+      "Different chamber capacities and shelf arrangements may be available based on the selected model and laboratory requirements.",
+      "Contact Nikam Scientific for BOD incubators, technical specifications and product-selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/BOD-Incubator.jpg"
+    ]
+  },
+  "autoclave": {
+    "id": 17770,
+    "slug": "autoclave",
+    "category": "equipment",
+    "title": "Autoclave",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Laboratory Autoclave"
+      },
+      {
+        "tag": "h3",
+        "text": "Controlled Temperature and Pressure"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Stainless-Steel Chamber"
+      },
+      {
+        "tag": "h3",
+        "text": "Effective Steam Sterilisation"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Lid Locking"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Chamber Capacities"
+      },
+      {
+        "tag": "h3",
+        "text": "Essential Safety Controls"
+      },
+      {
+        "tag": "h3",
+        "text": "Controlled Temperature and Pressure"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Lid Locking"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Stainless-Steel Chamber"
+      },
+      {
+        "tag": "h3",
+        "text": "Effective Steam Sterilisation"
+      },
+      {
+        "tag": "h3",
+        "text": "Essential Safety Controls"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Chamber Capacities"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need a Reliable Autoclave for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific laboratory autoclaves are designed to sterilise suitable glassware, instruments and laboratory materials using pressurised steam. Their durable chamber, controlled operating system and essential safety features support dependable sterilisation across research, healthcare, pharmaceutical and educational laboratories.",
+      "A laboratory autoclave uses pressurised steam to sterilise suitable glassware, instruments, culture media and laboratory materials.",
+      "It exposes suitable materials to saturated steam under controlled temperature and pressure for a defined sterilisation cycle.",
+      "Heat- and moisture-resistant glassware, instruments, media and approved materials may be autoclaved according to their handling instructions.",
+      "Different chamber capacities may be available depending on the model and laboratory sterilisation requirements.",
+      "Safety features vary by model and may include secure lid locking, pressure-release controls and protection against excessive pressure.",
+      "Contact Nikam Scientific for laboratory autoclaves, technical specifications and product-selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Autoclave.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "pipeline-components": {
+    "id": 17780,
+    "slug": "pipeline-components",
+    "category": "industrial",
+    "title": "Pipeline Components",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Pipeline Components"
+      },
+      {
+        "tag": "h3",
+        "text": "Class A Accuracy"
+      },
+      {
+        "tag": "h3",
+        "text": "Leak-Resistant Assembly"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical-Resistant Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Graduations"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Connection Options"
+      },
+      {
+        "tag": "h3",
+        "text": "Controlled Process Flow"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Configurations Available"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Pipeline Connections"
+      },
+      {
+        "tag": "h3",
+        "text": "Leak-Resistant Assembly"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical-Resistant Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Controlled Process Flow"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Connection Options"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Components for Your Laboratory Pipeline?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific pipeline components are designed for connecting, directing and controlling fluids, gases and vacuum lines within laboratory and process systems. Available in different designs and connection options, these components support secure assembly, dependable flow and convenient system maintenance.",
+      "Pipeline components connect, direct and control compatible liquids, gases or vacuum lines within laboratory and process systems.",
+      "Available options may include bends, tees, crosses, reducers, connectors, couplings and other specialised fittings.",
+      "Depending on the application, components may be manufactured from borosilicate glass, PTFE or other compatible materials.",
+      "Selection depends on the medium, connection type, pipe diameter, operating conditions and system configuration.",
+      "Custom components may be manufactured according to approved drawings, samples, required dimensions and technical feasibility.",
+      "Contact Nikam Scientific for pipeline components, compatible fittings and product-selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Pipeline-Components.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "vessels": {
+    "id": 17782,
+    "slug": "vessels",
+    "category": "industrial",
+    "title": "Vessels",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Laboratory Vessels"
+      },
+      {
+        "tag": "h3",
+        "text": "Excellent Process Visibility"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical-Resistant Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Glass Connections"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Vessel Designs"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Configurations Available"
+      },
+      {
+        "tag": "h3",
+        "text": "Excellent Process Visibility"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Glass Connections"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical-Resistant Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Configurations Available"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Vessel Designs"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Glass Vessels for Your Laboratory Process?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific laboratory vessels are manufactured from quality borosilicate glass for mixing, reacting, holding and processing laboratory materials. Their transparent construction, chemical resistance and compatible connection options support reliable operation across research, pharmaceutical, chemical and industrial laboratories.",
+      "Laboratory vessels are used for mixing, reacting, holding, observing and processing suitable materials under controlled conditions.",
+      "Our glass vessels are manufactured from quality borosilicate glass for clarity, durability and chemical resistance.",
+      "Single-wall and jacketed options may be available depending on the required process and selected model.",
+      "Different capacities and configurations may be available based on the laboratory procedure and system requirements.",
+      "Custom vessels may be manufactured according to approved drawings, samples, required dimensions and technical feasibility.",
+      "Contact Nikam Scientific for laboratory vessels, compatible accessories and product-selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Vessels.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "stirrers-2": {
+    "id": 17788,
+    "slug": "stirrers-2",
+    "category": "industrial",
+    "title": "Stirrers",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Laboratory Stirrers"
+      },
+      {
+        "tag": "h3",
+        "text": "Consistent Sample Mixing"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical-Resistant Materials"
+      },
+      {
+        "tag": "h3",
+        "text": "Controlled Stirring Action"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Designs Available"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Laboratory Handling"
+      },
+      {
+        "tag": "h3",
+        "text": "Consistent Sample Mixing"
+      },
+      {
+        "tag": "h3",
+        "text": "Controlled Stirring Action"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical-Resistant Materials"
+      },
+      {
+        "tag": "h3",
+        "text": "Easy Laboratory Handling"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Designs Available"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Reliable Stirrers for Your Laboratory?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific laboratory stirrers are designed for controlled mixing of liquids, solutions and laboratory samples. Available in different designs and configurations, they support consistent agitation across chemical analysis, research, pharmaceutical testing and routine sample-preparation procedures.",
+      "A laboratory stirrer mixes liquids, solutions and samples during preparation, testing, reactions and research procedures.",
+      "Available options may include glass stirrers, overhead stirrers and specialised stirring assemblies, depending on the product range.",
+      "Depending on the model, stirrers may use borosilicate glass, PTFE, stainless steel or other chemically compatible materials.",
+      "Selection depends on the liquid volume, viscosity, vessel size, required speed and chemical compatibility.",
+      "Custom stirrers may be manufactured according to approved drawings, samples, required dimensions and technical feasibility.",
+      "Contact Nikam Scientific for laboratory stirrers, compatible accessories and product-selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Stirrers.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "heat-exchangers": {
+    "id": 17794,
+    "slug": "heat-exchangers",
+    "category": "industrial",
+    "title": "Heat Exchangers",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Glass Heat Exchangers"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Process Visibility"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Configurations Available"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical-Resistant Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Efficient Heat Transfer"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Exchanger Designs"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Process Connections"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Process Visibility"
+      },
+      {
+        "tag": "h3",
+        "text": "Efficient Heat Transfer"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Configurations Available"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical-Resistant Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Process Connections"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Exchanger Designs"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need a Glass Heat Exchanger for Your Process?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific glass heat exchangers are designed for controlled heating, cooling, condensation and heat recovery within laboratory and chemical process systems. Their transparent borosilicate glass construction provides process visibility and dependable resistance to many corrosive chemicals under suitable operating conditions.",
+      "A glass heat exchanger transfers heat between compatible fluids for heating, cooling, condensation or heat-recovery processes.",
+      "Borosilicate glass provides process visibility, chemical resistance and dependable thermal performance under suitable conditions.",
+      "Coil, shell-and-tube and other configurations may be available depending on process and installation requirements.",
+      "Selection depends on the process medium, flow rate, heat-transfer requirement, operating temperature, pressure and connection size.",
+      "Custom heat exchangers may be manufactured according to approved drawings, process requirements, dimensions and technical feasibility.",
+      "Contact Nikam Scientific for glass heat exchangers, technical specifications and product-selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Heat-Exchangers.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "column-components": {
+    "id": 17801,
+    "slug": "column-components",
+    "category": "industrial",
+    "title": "Column Components",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Column Components"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Process Visibility"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical-Resistant Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Column Assembly"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Component Designs"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Configurations Available"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Process Visibility"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Column Assembly"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical-Resistant Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Custom Configurations Available"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Component Designs"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need Components for Your Process Column?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific column components are designed for assembling, connecting and supporting laboratory and process columns. Manufactured from quality borosilicate glass, these components provide process visibility, chemical resistance and compatibility across separation, distillation, absorption and purification systems.",
+      "Column components are used to assemble and connect laboratory or process columns for separation, distillation, absorption and purification.",
+      "Available options may include column sections, heads, bases, adaptors, packing supports, distributors and outlet connections.",
+      "Borosilicate glass provides process visibility, chemical resistance and dependable thermal performance under suitable operating conditions.",
+      "Selection depends on the process medium, column diameter, connection type, operating conditions and required configuration.",
+      "Custom components may be manufactured according to approved drawings, process requirements, dimensions and technical feasibility.",
+      "Contact Nikam Scientific for column components, compatible accessories and product-selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Column-Components.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  },
+  "sight-glass": {
+    "id": 17810,
+    "slug": "sight-glass",
+    "category": "industrial",
+    "title": "Sight Glass",
+    "headings": [
+      {
+        "tag": "h4",
+        "text": "Sight Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Process Visibility"
+      },
+      {
+        "tag": "h3",
+        "text": "Leak-Resistant Assembly"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical-Resistant Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Designs Available"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Pipeline Connection"
+      },
+      {
+        "tag": "h3",
+        "text": "Clear Process Visibility"
+      },
+      {
+        "tag": "h3",
+        "text": "Durable Borosilicate Glass"
+      },
+      {
+        "tag": "h3",
+        "text": "Leak-Resistant Assembly"
+      },
+      {
+        "tag": "h3",
+        "text": "Chemical-Resistant Construction"
+      },
+      {
+        "tag": "h3",
+        "text": "Secure Pipeline Connection"
+      },
+      {
+        "tag": "h3",
+        "text": "Multiple Designs Available"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Benefits"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "Applications"
+      },
+      {
+        "tag": "h3",
+        "text": ""
+      },
+      {
+        "tag": "h3",
+        "text": "30+ Years of Experience"
+      },
+      {
+        "tag": "h3",
+        "text": "ISO-Certified Manufacturing"
+      },
+      {
+        "tag": "h3",
+        "text": "Strict Quality Control"
+      },
+      {
+        "tag": "h3",
+        "text": "Fast  Delivery"
+      },
+      {
+        "tag": "h3",
+        "text": "Our Popular Products"
+      },
+      {
+        "tag": "h4",
+        "text": "Pipettes"
+      },
+      {
+        "tag": "h3",
+        "text": "Tube"
+      },
+      {
+        "tag": "h3",
+        "text": "Flasks"
+      },
+      {
+        "tag": "h3",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "tag": "h3",
+        "text": "Need a Sight Glass for Your Process?"
+      }
+    ],
+    "paragraphs": [
+      "Nikam Scientific sight glass components provide clear visual observation of liquids, gases and process activity inside compatible pipelines, vessels and equipment. Manufactured using quality borosilicate glass, they support dependable monitoring across chemical, pharmaceutical, research and industrial process systems.",
+      "A sight glass allows operators to visually monitor liquid flow, level, colour and process conditions inside compatible equipment.",
+      "Borosilicate glass provides excellent transparency, chemical resistance and dependable thermal performance under suitable conditions.",
+      "Tubular, circular and flow-indicator designs may be available depending on the equipment and monitoring requirement.",
+      "Selection depends on the process medium, connection size, installation position, operating temperature and pressure.",
+      "Custom sight glasses may be manufactured according to approved drawings, required dimensions, process conditions and technical feasibility.",
+      "Contact Nikam Scientific for sight glasses, compatible fittings and product-selection assistance."
+    ],
+    "images": [
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Sight-Glass.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/elementor/thumbs/Pipettes-1-rqe3f94n1gtbagcg1l273cybxmqt0n5s290rwh4uqo.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Tube-1.jpg",
+      "https://nikamscientific.com/demo/wp-content/uploads/2026/07/Flasks-1.jpg"
+    ]
+  }
+}

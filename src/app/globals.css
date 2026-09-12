@@ -1,0 +1,194 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #ff7522;
+  --color-primary-hover: #e65e0d;
+  --color-secondary: #021330;
+  --color-dark: #121315;
+  --color-dark-sub: #1e2023;
+  --color-accent: #ffca3b;
+  --color-light: #f8f9fa;
+  --color-border: #eaeaea;
+  --color-muted: #666666;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: clip;
+  max-width: 100vw;
+  width: 100%;
+}
+
+body {
+  color: #666666;
+  background-color: #ffffff;
+  font-family: var(--font-dm-sans), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  overflow-x: clip;
+  max-width: 100vw;
+  width: 100%;
+  position: relative;
+  -webkit-tap-highlight-color: transparent;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #121315;
+  font-family: var(--font-barlow), sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.text-white h1,
+.text-white h2,
+.text-white h3,
+.text-white h4,
+.text-white h5,
+.text-white h6,
+h1.text-white,
+h2.text-white,
+h3.text-white,
+h4.text-white,
+h5.text-white,
+h6.text-white {
+  color: #ffffff !important;
+}
+
+/* Ensure headings inside white containers or with explicit dark classes always stay dark */
+.bg-white h1,
+.bg-white h2,
+.bg-white h3,
+.bg-white h4,
+.bg-white h5,
+.bg-white h6,
+h1.text-gray-900,
+h2.text-gray-900,
+h3.text-gray-900,
+h4.text-gray-900,
+h5.text-gray-900,
+h6.text-gray-900,
+h1.text-\[\#121315\],
+h2.text-\[\#121315\],
+h3.text-\[\#121315\],
+h4.text-\[\#121315\],
+h5.text-\[\#121315\],
+h6.text-\[\#121315\] {
+  color: #121315 !important;
+}
+
+/* Custom theme components */
+@media (min-width: 1024px) {
+  .sticky-product-column {
+    position: -webkit-sticky !important;
+    position: sticky !important;
+    top: 96px !important;
+    z-index: 20;
+  }
+}
+
+.btn-primary {
+  background-color: #ff7522;
+  color: #ffffff;
+  font-weight: 600;
+  padding: 0.75rem 1.75rem;
+  border-radius: 4px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 0.5px;
+}
+
+.btn-primary:hover {
+  background-color: #e65e0d;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(255, 117, 34, 0.3);
+}
+
+.btn-secondary {
+  background-color: #121315;
+  color: #ffffff;
+  font-weight: 600;
+  padding: 0.75rem 1.75rem;
+  border-radius: 4px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 0.5px;
+}
+
+.btn-secondary:hover {
+  background-color: #ff7522;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(18, 19, 21, 0.3);
+}
+
+.btn-outline {
+  border: 2px solid #ff7522;
+  color: #ff7522;
+  font-weight: 600;
+  padding: 0.7rem 1.7rem;
+  border-radius: 4px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 0.5px;
+}
+
+.btn-outline:hover {
+  background-color: #ff7522;
+  color: #ffffff;
+  transform: translateY(-2px);
+}
+
+/* Section Title decoration */
+.section-subtitle {
+  color: #ff7522;
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.section-subtitle::before {
+  content: "";
+  display: inline-block;
+  width: 24px;
+  height: 2px;
+  background-color: #ff7522;
+}
+
+/* Card hover animation */
+.hover-lift {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+}
+
+/* Header sticky transition */
+.header-sticky {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  backdrop-filter: blur(8px);
+  background-color: rgba(255, 255, 255, 0.98);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+}
