@@ -120,7 +120,7 @@ export default function ContactForm({
       <div className={`grid ${compact ? "grid-cols-1" : "grid-cols-1 sm:grid-cols-2"} gap-3.5 sm:gap-4`}>
         {/* Full Name */}
         <div>
-          <label className="block text-xs font-semibold text-gray-700 uppercase tracking-wider mb-1">
+          <label className="block text-xs font-semibold text-gray-700 uppercase tracking-wider mb-1.5">
             Full Name <span className="text-[#ff7522]">*</span>
           </label>
           <input
@@ -129,13 +129,13 @@ export default function ContactForm({
             placeholder="e.g. Dr. Rajesh Sharma"
             value={formData.name}
             onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-            className="w-full px-3.5 sm:px-4 py-2.5 sm:py-3 bg-white border border-gray-300 rounded focus:border-[#ff7522] focus:ring-1 focus:ring-[#ff7522] outline-none text-sm transition-colors"
+            className="w-full px-3.5 sm:px-4 py-2.5 sm:py-3 bg-white border border-slate-200 rounded-lg focus:border-[#ff7522] focus:ring-2 focus:ring-[#ff7522]/20 outline-none text-sm transition-all duration-200 shadow-2xs hover:border-slate-300"
           />
         </div>
 
         {/* Email Address */}
         <div>
-          <label className="block text-xs font-semibold text-gray-700 uppercase tracking-wider mb-1">
+          <label className="block text-xs font-semibold text-gray-700 uppercase tracking-wider mb-1.5">
             Email Address <span className="text-[#ff7522]">*</span>
           </label>
           <input
@@ -144,7 +144,7 @@ export default function ContactForm({
             placeholder="e.g. rajesh@company.com"
             value={formData.email}
             onChange={(e) => setFormData({ ...formData, email: e.target.value })}
-            className="w-full px-3.5 sm:px-4 py-2.5 sm:py-3 bg-white border border-gray-300 rounded focus:border-[#ff7522] focus:ring-1 focus:ring-[#ff7522] outline-none text-sm transition-colors"
+            className="w-full px-3.5 sm:px-4 py-2.5 sm:py-3 bg-white border border-slate-200 rounded-lg focus:border-[#ff7522] focus:ring-2 focus:ring-[#ff7522]/20 outline-none text-sm transition-all duration-200 shadow-2xs hover:border-slate-300"
           />
         </div>
       </div>
@@ -152,7 +152,7 @@ export default function ContactForm({
       <div className={`grid ${compact ? "grid-cols-1" : "grid-cols-1 sm:grid-cols-2"} gap-3.5 sm:gap-4`}>
         {/* Phone Number */}
         <div>
-          <label className="block text-xs font-semibold text-gray-700 uppercase tracking-wider mb-1">
+          <label className="block text-xs font-semibold text-gray-700 uppercase tracking-wider mb-1.5">
             Phone Number <span className="text-[#ff7522]">*</span>
           </label>
           <input
@@ -161,19 +161,19 @@ export default function ContactForm({
             placeholder="+91 9876543210"
             value={formData.phone}
             onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
-            className="w-full px-3.5 sm:px-4 py-2.5 sm:py-3 bg-white border border-gray-300 rounded focus:border-[#ff7522] focus:ring-1 focus:ring-[#ff7522] outline-none text-sm transition-colors"
+            className="w-full px-3.5 sm:px-4 py-2.5 sm:py-3 bg-white border border-slate-200 rounded-lg focus:border-[#ff7522] focus:ring-2 focus:ring-[#ff7522]/20 outline-none text-sm transition-all duration-200 shadow-2xs hover:border-slate-300"
           />
         </div>
 
         {/* Product Category */}
         <div>
-          <label className="block text-xs font-semibold text-gray-700 uppercase tracking-wider mb-1">
+          <label className="block text-xs font-semibold text-gray-700 uppercase tracking-wider mb-1.5">
             Product Category <span className="text-[#ff7522]">*</span>
           </label>
           <select
             value={formData.category}
             onChange={(e) => setFormData({ ...formData, category: e.target.value })}
-            className="w-full px-3.5 sm:px-4 py-2.5 sm:py-3 bg-white border border-gray-300 rounded focus:border-[#ff7522] focus:ring-1 focus:ring-[#ff7522] outline-none text-sm transition-colors"
+            className="w-full px-3.5 sm:px-4 py-2.5 sm:py-3 bg-white border border-slate-200 rounded-lg focus:border-[#ff7522] focus:ring-2 focus:ring-[#ff7522]/20 outline-none text-sm transition-all duration-200 shadow-2xs hover:border-slate-300"
           >
             <option value="">Select Product Category</option>
             {categories.map((c) => (
@@ -187,7 +187,7 @@ export default function ContactForm({
 
       {/* Message */}
       <div>
-        <label className="block text-xs font-semibold text-gray-700 uppercase tracking-wider mb-1">
+        <label className="block text-xs font-semibold text-gray-700 uppercase tracking-wider mb-1.5">
           Requirement Details / Message <span className="text-[#ff7522]">*</span>
         </label>
         <textarea
@@ -196,7 +196,7 @@ export default function ContactForm({
           placeholder="Please describe sizes, quantity, capacity, application specifications, or custom requirements..."
           value={formData.message}
           onChange={(e) => setFormData({ ...formData, message: e.target.value })}
-          className="w-full px-4 py-3 bg-white border border-gray-300 rounded focus:border-[#ff7522] focus:ring-1 focus:ring-[#ff7522] outline-none text-sm transition-colors resize-y"
+          className="w-full px-4 py-3 bg-white border border-slate-200 rounded-lg focus:border-[#ff7522] focus:ring-2 focus:ring-[#ff7522]/20 outline-none text-sm transition-all duration-200 shadow-2xs hover:border-slate-300 resize-y"
         ></textarea>
       </div>
 
@@ -207,9 +207,9 @@ export default function ContactForm({
           id={`agree-${compact ? "compact" : "full"}`}
           checked={formData.agree}
           onChange={(e) => setFormData({ ...formData, agree: e.target.checked })}
-          className="w-4 h-4 text-[#ff7522] border-gray-300 rounded focus:ring-[#ff7522]"
+          className="w-4 h-4 text-[#ff7522] border-gray-300 rounded focus:ring-[#ff7522] accent-[#ff7522]"
         />
-        <label htmlFor={`agree-${compact ? "compact" : "full"}`} className="text-xs text-gray-600">
+        <label htmlFor={`agree-${compact ? "compact" : "full"}`} className="text-xs text-gray-600 cursor-pointer">
           I agree to the terms and privacy policy of Nikam Scientific.
         </label>
       </div>
@@ -218,7 +218,7 @@ export default function ContactForm({
       <button
         type="submit"
         disabled={loading}
-        className="w-full btn-primary py-3.5 flex items-center justify-center gap-2 cursor-pointer disabled:opacity-70"
+        className="w-full btn-primary py-3.5 rounded-lg flex items-center justify-center gap-2 cursor-pointer disabled:opacity-70 shadow-md hover:shadow-lg transition-all"
       >
         {loading ? (
           <>

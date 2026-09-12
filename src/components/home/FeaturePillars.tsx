@@ -32,26 +32,26 @@ export default function FeaturePillars() {
           return (
             <div
               key={idx}
-              className="bg-white rounded-xl p-8 shadow-xl border-b-4 border-[#ff7522] hover-lift flex flex-col justify-between group"
+              className="bg-white rounded-2xl p-7 sm:p-8 shadow-[0_8px_30px_-4px_rgba(0,0,0,0.08)] border border-slate-100/90 border-b-4 border-b-[#ff7522] hover-lift flex flex-col justify-between group relative overflow-hidden"
             >
               <div>
-                <div className="w-14 h-14 rounded-lg bg-orange-50 text-[#ff7522] flex items-center justify-center mb-6 group-hover:bg-[#ff7522] group-hover:text-white transition-all duration-300">
-                  <Icon className="w-7 h-7" />
+                <div className="w-14 h-14 rounded-xl bg-orange-50 border border-orange-100/80 text-[#ff7522] flex items-center justify-center mb-6 group-hover:bg-[#ff7522] group-hover:text-white group-hover:scale-105 transition-all duration-300 shadow-2xs">
+                  <Icon className="w-7 h-7 stroke-[2]" />
                 </div>
                 <h3 className="text-xl font-bold text-[#121315] font-heading mb-3 group-hover:text-[#ff7522] transition-colors">
                   {item.title}
                 </h3>
-                <p className="text-sm text-gray-600 leading-relaxed mb-6">
+                <p className="text-sm text-slate-600 leading-relaxed mb-6">
                   {item.desc}
                 </p>
               </div>
 
               <Link
                 href={item.link}
-                className="inline-flex items-center gap-1.5 text-xs font-bold text-[#121315] group-hover:text-[#ff7522] uppercase tracking-wider transition-colors"
+                className="inline-flex items-center gap-1.5 text-xs font-bold text-[#121315] group-hover:text-[#ff7522] uppercase tracking-wider transition-colors group/link"
               >
                 <span>Learn More</span>
-                <ArrowRight className="w-4 h-4 text-[#ff7522] group-hover:translate-x-1 transition-transform" />
+                <ArrowRight className="w-4 h-4 text-[#ff7522] group-hover/link:translate-x-1.5 transition-transform duration-200" />
               </Link>
             </div>
           );

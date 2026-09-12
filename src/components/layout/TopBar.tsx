@@ -37,7 +37,7 @@ export default function TopBar() {
             href={COMPANY_INFO.socials.facebook}
             target="_blank"
             rel="noopener noreferrer"
-            className="w-6 h-6 sm:w-7 sm:h-7 rounded-full bg-white shadow-xs border border-gray-200 flex items-center justify-center text-[#1877F2] hover:bg-[#1877F2] hover:text-white transition-all"
+            className="w-6 h-6 sm:w-7 sm:h-7 rounded-full bg-white shadow-xs border border-gray-200 flex items-center justify-center text-[#1877F2] hover:bg-[#1877F2] hover:text-white hover:scale-110 transition-all duration-200"
             aria-label="Facebook"
           >
             <Facebook className="w-3 h-3 sm:w-3.5 sm:h-3.5" />
@@ -46,7 +46,7 @@ export default function TopBar() {
             href={COMPANY_INFO.socials.linkedin}
             target="_blank"
             rel="noopener noreferrer"
-            className="w-6 h-6 sm:w-7 sm:h-7 rounded-full bg-white shadow-xs border border-gray-200 flex items-center justify-center text-[#0A66C2] hover:bg-[#0A66C2] hover:text-white transition-all"
+            className="w-6 h-6 sm:w-7 sm:h-7 rounded-full bg-white shadow-xs border border-gray-200 flex items-center justify-center text-[#0A66C2] hover:bg-[#0A66C2] hover:text-white hover:scale-110 transition-all duration-200"
             aria-label="LinkedIn"
           >
             <Linkedin className="w-3 h-3 sm:w-3.5 sm:h-3.5" />
@@ -55,7 +55,7 @@ export default function TopBar() {
             href={COMPANY_INFO.socials.instagram}
             target="_blank"
             rel="noopener noreferrer"
-            className="w-6 h-6 sm:w-7 sm:h-7 rounded-full bg-white shadow-xs border border-gray-200 flex items-center justify-center text-[#C13584] hover:bg-[#C13584] hover:text-white transition-all"
+            className="w-6 h-6 sm:w-7 sm:h-7 rounded-full bg-white shadow-xs border border-gray-200 flex items-center justify-center text-[#C13584] hover:bg-[#C13584] hover:text-white hover:scale-110 transition-all duration-200"
             aria-label="Instagram"
           >
             <Instagram className="w-3 h-3 sm:w-3.5 sm:h-3.5" />
@@ -64,7 +64,7 @@ export default function TopBar() {
             href={COMPANY_INFO.socials.youtube}
             target="_blank"
             rel="noopener noreferrer"
-            className="w-6 h-6 sm:w-7 sm:h-7 rounded-full bg-white shadow-xs border border-gray-200 flex items-center justify-center text-[#FF0000] hover:bg-[#FF0000] hover:text-white transition-all"
+            className="w-6 h-6 sm:w-7 sm:h-7 rounded-full bg-white shadow-xs border border-gray-200 flex items-center justify-center text-[#FF0000] hover:bg-[#FF0000] hover:text-white hover:scale-110 transition-all duration-200"
             aria-label="YouTube"
           >
             <Youtube className="w-3 h-3 sm:w-3.5 sm:h-3.5" />

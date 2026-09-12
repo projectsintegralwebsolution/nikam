@@ -33,8 +33,8 @@ export default function Header() {
       <header
         className={`w-full transition-all duration-300 z-40 ${
           isScrolled
-            ? "sticky top-0 bg-white shadow-md py-1.5"
-            : "relative bg-white py-2 border-b border-gray-100"
+            ? "sticky top-0 bg-white/95 backdrop-blur-md shadow-[0_4px_20px_-2px_rgba(0,0,0,0.06)] border-b border-slate-100 py-1.5"
+            : "relative bg-white py-2 border-b border-gray-100/80"
         }`}
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -82,7 +82,7 @@ export default function Header() {
 
                       {/* Dropdown Menu with Seamless Hover Bridge (pt-2) */}
                       <div className="absolute top-full left-0 pt-2 w-72 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-1 group-hover:translate-y-0 z-50">
-                        <div className="bg-white rounded-[10px] shadow-[0_12px_32px_rgba(0,0,0,0.14)] border border-gray-100 py-2 overflow-hidden">
+                        <div className="bg-white/98 backdrop-blur-md rounded-xl shadow-[0_16px_36px_rgba(0,0,0,0.12)] border border-slate-100/90 py-2 overflow-hidden ring-1 ring-black/5">
                           {item.children.map((child) => {
                             const isChildActive = pathname === child.href;
                             return (

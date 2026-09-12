@@ -124,7 +124,7 @@ export default function HeroBanner() {
       </div>
 
       {/* 4-Box Stats Counter Floating Cards Matching Section 6a49276 on Live Site */}
-      <div className="bg-white pt-8 sm:pt-10 md:pt-12 pb-4 relative z-20">
+      <div className="bg-gradient-to-b from-slate-50/50 to-white pt-8 sm:pt-10 md:pt-12 pb-6 relative z-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-5 lg:gap-6">
             {COMPANY_INFO.stats.map((st, idx) => {
@@ -133,19 +133,21 @@ export default function HeroBanner() {
               return (
                 <div
                   key={idx}
-                  className="bg-white rounded-[15px] p-3.5 sm:p-5 lg:p-6 shadow-[0_0_10px_rgba(0,0,0,0.2)] hover:shadow-[0_0_15px_rgba(0,0,0,0.35)] transition-all flex flex-col sm:flex-row items-center justify-center text-center sm:text-left gap-2 sm:gap-4"
+                  className="bg-white rounded-2xl p-4 sm:p-5 lg:p-6 border border-slate-100 shadow-[0_4px_20px_-4px_rgba(0,0,0,0.06)] hover:shadow-[0_16px_32px_-8px_rgba(255,117,34,0.18)] hover:-translate-y-1 transition-all duration-300 flex flex-col sm:flex-row items-center justify-center text-center sm:text-left gap-3 sm:gap-4 group/stat relative overflow-hidden"
                 >
-                  <div className="text-[#ff7522] flex-shrink-0">
-                    <Icon className="w-7 h-7 sm:w-9 sm:h-9 lg:w-10 lg:h-10 stroke-[1.75]" />
+                  <div className="w-11 h-11 sm:w-12 sm:h-12 rounded-xl bg-orange-50 border border-orange-100/80 flex items-center justify-center text-[#ff7522] flex-shrink-0 group-hover/stat:bg-[#ff7522] group-hover/stat:text-white group-hover/stat:scale-105 transition-all duration-300 shadow-xs">
+                    <Icon className="w-6 h-6 sm:w-7 sm:h-7 stroke-[2]" />
                   </div>
                   <div>
-                    <div className="text-xl sm:text-2xl lg:text-3xl font-extrabold text-[#ff7522] font-heading leading-tight">
+                    <div className="text-2xl sm:text-3xl lg:text-3xl font-black text-[#121315] group-hover/stat:text-[#ff7522] transition-colors font-heading leading-tight">
                       {st.value}{st.suffix}
                     </div>
-                    <div className="text-[10px] sm:text-xs lg:text-[13px] font-bold text-gray-900 uppercase font-sans tracking-wide">
+                    <div className="text-[10px] sm:text-xs lg:text-[12.5px] font-bold text-slate-700 uppercase font-sans tracking-wide mt-0.5">
                       {st.label}
                     </div>
                   </div>
+                  {/* Subtle bottom accent glow on hover */}
+                  <div className="absolute bottom-0 inset-x-0 h-0.5 bg-transparent group-hover/stat:bg-gradient-to-r group-hover/stat:from-[#ff7522] group-hover/stat:to-[#ffca3b] transition-all duration-300" />
                 </div>
               );
             })}

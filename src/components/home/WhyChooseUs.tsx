@@ -48,18 +48,18 @@ export default function WhyChooseUs() {
             return (
               <div
                 key={idx}
-                className="bg-white rounded-[16px] sm:rounded-[20px] p-5 sm:p-7 lg:p-8 shadow-[0_0_10px_rgba(0,0,0,0.25)] sm:shadow-[0_0_10px_rgba(0,0,0,0.4)] hover:shadow-[0_0_16px_rgba(0,0,0,0.6)] transition-all duration-300 flex flex-col items-center text-center group"
+                className="bg-white/98 backdrop-blur-xs rounded-2xl p-6 sm:p-7 lg:p-8 shadow-[0_8px_24px_-4px_rgba(0,0,0,0.15)] hover:shadow-[0_20px_35px_-6px_rgba(0,0,0,0.25)] hover:-translate-y-1.5 transition-all duration-300 flex flex-col items-center text-center group border border-white/40"
               >
-                <div className="w-12 h-12 sm:w-14 sm:h-14 rounded-full border-2 border-[#ff7522] text-[#ff7522] flex items-center justify-center mb-3 sm:mb-4 group-hover:bg-[#ff7522] group-hover:text-white transition-all duration-300">
-                  <Icon className="w-6 h-6 sm:w-7 sm:h-7" />
+                <div className="w-13 h-13 sm:w-14 sm:h-14 rounded-2xl bg-orange-50/90 border border-orange-200/80 text-[#ff7522] flex items-center justify-center mb-4 group-hover:bg-[#ff7522] group-hover:text-white group-hover:scale-110 transition-all duration-300 shadow-2xs">
+                  <Icon className="w-6 h-6 sm:w-7 sm:h-7 stroke-[2]" />
                 </div>
                 <h3
-                  className="text-base sm:text-lg font-bold text-[#121315] font-heading mb-1.5 sm:mb-2 !text-[#121315]"
+                  className="text-base sm:text-lg font-bold text-[#121315] font-heading mb-2 !text-[#121315] group-hover:text-[#ff7522] transition-colors"
                   style={{ color: "#121315" }}
                 >
                   {item.title}
                 </h3>
-                <p className="text-xs sm:text-sm text-gray-700 leading-relaxed font-normal">
+                <p className="text-xs sm:text-sm text-slate-600 leading-relaxed font-normal">
                   {item.desc}
                 </p>
               </div>
