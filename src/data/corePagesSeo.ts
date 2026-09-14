@@ -8,7 +8,7 @@ export interface PageSeoConfig {
   ogType?: "website" | "article";
 }
 
-export const SITE_URL = "https://nikamscientific.com/demo-2";
+export const SITE_URL = "https://nikamscientific.com";
 
 export const GLOBAL_ORGANIZATION_SCHEMA = {
   "@context": "https://schema.org",

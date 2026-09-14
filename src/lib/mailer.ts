@@ -208,7 +208,7 @@ function generateCustomerEmailHtml(data: ContactFormData, submissionDate: string
               <strong>Nikam Scientific Co.</strong><br>
               Unit No - 18, 19 &amp; 20, Jay Ambe Nagar, Shivaji Nagar, Dist. Palghar, Salvad - 401 504, Boisar (W), Maharashtra, India<br>
               Direct: <a href="tel:+919422685973">+91 9422685973</a> | <a href="tel:+919359366254">+91 9359366254</a> | Email: <a href="mailto:${ownerEmail}">${ownerEmail}</a><br>
-              Website: <a href="https://nikamscientific.com/demo/">www.nikamscientific.com</a>
+              Website: <a href="https://nikamscientific.com/">www.nikamscientific.com</a>
             </div>
           </div>
         </td>
