@@ -152,10 +152,10 @@ export default function Footer() {
                 Call Us: +91 9422685973
               </a>
               <a
-                href="mailto:info@nikamscientific.com"
+                href="mailto:nikamscientific@gmail.com"
                 className="text-white hover:text-[#FF7522] transition-colors block py-0.5 break-words"
               >
-                Mail: info@nikamscientific.com
+                Mail: nikamscientific@gmail.com
               </a>
             </div>
           </div>

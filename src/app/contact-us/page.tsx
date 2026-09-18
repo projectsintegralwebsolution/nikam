@@ -107,22 +107,10 @@ export default function ContactUsPage() {
                     </span>
                     <div className="mt-1 space-y-1">
                       <a
-                        href="mailto:info@nikamscientific.com"
+                        href="mailto:nikamscientific@gmail.com"
                         className="block text-base font-bold text-[#121315] hover:text-[#ff7522] transition-colors"
                       >
-                        info@nikamscientific.com
-                      </a>
-                      <a
-                        href="mailto:nikamscientific@gmail.com"
-                        className="block text-sm font-semibold text-gray-700 hover:text-[#ff7522] transition-colors"
-                      >
                         nikamscientific@gmail.com
-                      </a>
-                      <a
-                        href="mailto:nikamsarad973@gmail.com"
-                        className="block text-sm font-semibold text-gray-700 hover:text-[#ff7522] transition-colors"
-                      >
-                        nikamsarad973@gmail.com
                       </a>
                     </div>
                   </div>

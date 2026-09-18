@@ -23,7 +23,7 @@ export default function ProductCategories() {
       id: "industrial",
       title: "Industrial Process Equipment",
       desc: "Engineered equipment for industrial production, processing and quality-control applications.",
-      image: "/demo-2/images/products/equip.png",
+      image: "/images/products/Vessels.jpg",
       link: "/industrial-processing-unit",
     },
   ];

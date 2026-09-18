@@ -45,7 +45,7 @@ export const GLOBAL_ORGANIZATION_SCHEMA = {
     longitude: 72.7547,
   },
   telephone: "+91-9422685973",
-  email: "info@nikamscientific.com",
+  email: "nikamscientific@gmail.com",
   contactPoint: [
     {
       "@type": "ContactPoint",

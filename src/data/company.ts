@@ -9,13 +9,10 @@ export const COMPANY_INFO = {
   alternatePhoneRaw: "+919359366254",
   mobilePhone: "+91 9923285673",
   mobilePhoneRaw: "+919923285673",
-  email: "info@nikamscientific.com",
+  email: "nikamscientific@gmail.com",
   secondaryEmail: "nikamscientific@gmail.com",
-  tertiaryEmail: "nikamsarad973@gmail.com",
   allEmails: [
-    "info@nikamscientific.com",
     "nikamscientific@gmail.com",
-    "nikamsarad973@gmail.com",
   ],
   allPhones: [
     { label: "Phone", number: "+91 9422685973", raw: "+919422685973" },

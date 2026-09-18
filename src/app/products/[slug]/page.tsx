@@ -314,7 +314,7 @@ export default function ProductDetailPage({
                       <Icon className="w-5 h-5" />
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#121315] text-sm mb-1">
+                      <h4 className="font-bold text-[#021330] text-sm mb-1">
                         {p.title}
                       </h4>
                       <p className="text-xs text-gray-600">

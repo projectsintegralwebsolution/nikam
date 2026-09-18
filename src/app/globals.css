@@ -39,6 +39,8 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0.01em;
 }
 
+/* Clean, robust typography color hierarchy */
+.text-white,
 .text-white h1,
 .text-white h2,
 .text-white h3,
@@ -57,6 +59,12 @@ h6.text-white,
 [class*="bg-[#021330]"] h4,
 [class*="bg-[#021330]"] h5,
 [class*="bg-[#021330]"] h6,
+[class*="bg-[#121315]"] h1,
+[class*="bg-[#121315]"] h2,
+[class*="bg-[#121315]"] h3,
+[class*="bg-[#121315]"] h4,
+[class*="bg-[#121315]"] h5,
+[class*="bg-[#121315]"] h6,
 [class*="bg-slate-9"] h1,
 [class*="bg-slate-9"] h2,
 [class*="bg-slate-9"] h3,
@@ -68,26 +76,19 @@ h6.text-white,
   color: #ffffff !important;
 }
 
-/* Ensure headings inside white containers or with explicit dark classes always stay dark */
-.bg-white h1,
-.bg-white h2,
-.bg-white h3,
-.bg-white h4,
-.bg-white h5,
-.bg-white h6,
-h1.text-gray-900,
-h2.text-gray-900,
-h3.text-gray-900,
-h4.text-gray-900,
-h5.text-gray-900,
-h6.text-gray-900,
-h1.text-\[\#121315\],
-h2.text-\[\#121315\],
-h3.text-\[\#121315\],
-h4.text-\[\#121315\],
-h5.text-\[\#121315\],
-h6.text-\[\#121315\] {
-  color: #121315 !important;
+/* Why Choose Us Cards */
+.why-card-title {
+  color: #ffffff !important;
+  transition: color 0.2s ease-in-out;
+}
+.group:hover .why-card-title,
+.why-card:hover .why-card-title,
+.why-card-title:hover {
+  color: #ff7522 !important;
+}
+.why-card-desc {
+  color: #ffffff !important;
+  opacity: 0.92;
 }
 
 /* Custom theme components */

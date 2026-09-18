@@ -44,25 +44,31 @@ export default function WhyChooseUs() {
           </h2>
         </div>
 
-        {/* 6 Key Pillars Grid with White Rounded Cards matching Live Site */}
+        {/* 6 Key Pillars Grid matching Screenshot */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
           {WHY_CHOOSE_US.map((item, idx) => {
             const Icon = icons[idx % icons.length];
             return (
               <div
                 key={idx}
-                className="bg-white/98 backdrop-blur-xs rounded-2xl p-6 sm:p-7 lg:p-8 shadow-[0_8px_24px_-4px_rgba(0,0,0,0.15)] hover:shadow-[0_20px_35px_-6px_rgba(0,0,0,0.25)] hover:-translate-y-1.5 transition-all duration-300 flex flex-col items-center text-center group border border-white/40"
+                className="why-card bg-white/[0.04] backdrop-blur-sm rounded-2xl p-6 sm:p-7 lg:p-8 border border-white/15 hover:border-[#ff7522]/60 hover:bg-white/[0.08] shadow-lg hover:shadow-2xl transition-all duration-300 flex flex-col items-center text-center group cursor-pointer"
+                style={{
+                  backgroundColor: "rgba(255, 255, 255, 0.04)",
+                  borderColor: "rgba(255, 255, 255, 0.15)",
+                }}
               >
-                <div className="w-13 h-13 sm:w-14 sm:h-14 rounded-2xl bg-orange-50/90 border border-orange-200/80 text-[#ff7522] flex items-center justify-center mb-4 group-hover:bg-[#ff7522] group-hover:text-white group-hover:scale-110 transition-all duration-300 shadow-2xs">
+                <div className="w-13 h-13 sm:w-14 sm:h-14 rounded-2xl bg-orange-100/90 border border-orange-200/80 text-[#ff7522] flex items-center justify-center mb-4 group-hover:bg-[#ff7522] group-hover:text-white group-hover:scale-110 transition-all duration-300 shadow-sm">
                   <Icon className="w-6 h-6 sm:w-7 sm:h-7 stroke-[2]" />
                 </div>
                 <h3
-                  className="text-base sm:text-lg font-bold text-[#121315] font-heading mb-2 !text-[#121315] group-hover:text-[#ff7522] transition-colors"
-                  style={{ color: "#121315" }}
+                  className="why-card-title text-base sm:text-lg font-bold text-white group-hover:text-[#ff7522] group-hover:!text-[#ff7522] font-heading mb-2 transition-colors duration-200"
                 >
                   {item.title}
                 </h3>
-                <p className="text-xs sm:text-sm text-slate-600 leading-relaxed font-normal">
+                <p
+                  className="why-card-desc text-xs sm:text-sm text-white leading-relaxed font-normal"
+                  style={{ color: "#ffffff" }}
+                >
                   {item.desc}
                 </p>
               </div>

@@ -31,10 +31,10 @@ export default function Header() {
   return (
     <>
       <header
-        className={`w-full transition-all duration-300 z-40 ${
+        className={`w-full transition-all duration-300 sticky top-0 z-50 bg-white border-b border-gray-100 ${
           isScrolled
-            ? "sticky top-0 bg-white/95 backdrop-blur-md shadow-[0_4px_20px_-2px_rgba(0,0,0,0.06)] border-b border-slate-100 py-1.5"
-            : "relative bg-white py-2 border-b border-gray-100/80"
+            ? "shadow-[0_4px_20px_-2px_rgba(0,0,0,0.08)] py-1.5 sm:py-2"
+            : "py-2 sm:py-3"
         }`}
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -46,7 +46,11 @@ export default function Header() {
                 alt="Nikam Scientific Co. - Laboratory Glassware Manufacturer"
                 width={300}
                 height={128}
-                className="w-[165px] sm:w-[200px] md:w-[235px] lg:w-[260px] xl:w-[285px] h-auto object-contain transition-transform duration-300 group-hover:scale-[1.03]"
+                className={`w-auto object-contain transition-all duration-300 group-hover:scale-[1.02] ${
+                  isScrolled
+                    ? "h-[56px] sm:h-[62px] lg:h-[68px] xl:h-[74px]"
+                    : "h-[64px] sm:h-[74px] lg:h-[84px] xl:h-[90px]"
+                }`}
                 priority
               />
             </Link>
@@ -70,38 +74,52 @@ export default function Header() {
                       onMouseLeave={() => setActiveDropdown(null)}
                     >
                       <button
-                        className={`flex items-center gap-1 px-2 xl:px-2.5 py-1.5 font-heading text-[13px] xl:text-[14.5px] font-bold uppercase tracking-[0.5px] transition-colors cursor-pointer ${
+                        className={`flex items-center gap-1 px-2 xl:px-2.5 py-1.5 font-heading text-[13px] xl:text-[14px] font-bold uppercase tracking-[0.5px] transition-colors cursor-pointer ${
                           isActive
                             ? "text-[#ff7522]"
-                            : "text-slate-800 hover:text-[#ff7522]"
+                            : "text-[#021330] hover:text-[#ff7522]"
                         }`}
                       >
                         <span>{item.title}</span>
                         <ChevronDown className="w-3.5 h-3.5 transition-transform duration-200 group-hover:rotate-180 text-gray-500 group-hover:text-[#ff7522]" />
                       </button>
 
-                      {/* Dropdown Menu with Seamless Hover Bridge (pt-2) */}
-                      <div className="absolute top-full left-0 pt-2 w-72 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-1 group-hover:translate-y-0 z-50">
-                        <div className="bg-white/98 backdrop-blur-md rounded-xl shadow-[0_16px_36px_rgba(0,0,0,0.12)] border border-slate-100/90 py-2 overflow-hidden ring-1 ring-black/5">
-                          {item.children.map((child) => {
-                            const isChildActive = pathname === child.href;
-                            return (
+                      {/* Dropdown Menu - 100% Solid Opaque Background & High Contrast */}
+                      <div className="absolute top-full left-0 pt-2 w-80 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform translate-y-1 group-hover:translate-y-0 z-[100]">
+                        <div className="bg-white rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.25)] border-2 border-gray-100 overflow-hidden ring-1 ring-black/10">
+                          <div className="py-2">
+                            {item.children.map((child) => {
+                              const isChildActive = pathname === child.href;
+                              return (
+                                <Link
+                                  key={child.href}
+                                  href={child.href}
+                                  className={`flex items-center justify-between px-5 py-2.5 text-[13.5px] xl:text-[14px] font-bold transition-all duration-150 border-b border-gray-100/70 last:border-0 group/item ${
+                                    isChildActive
+                                      ? "!text-[#ff7522] bg-orange-50/80 pl-6"
+                                      : "!text-[#021330] hover:!text-[#ff7522] hover:bg-orange-50/60 hover:pl-6"
+                                  }`}
+                                  style={{ color: isChildActive ? "#ff7522" : "#021330" }}
+                                >
+                                  <span className="font-bold">{child.title}</span>
+                                  <span className="text-[#ff7522] opacity-0 -translate-x-2 group-hover/item:opacity-100 group-hover/item:translate-x-0 transition-all font-extrabold text-base">
+                                    &rsaquo;
+                                  </span>
+                                </Link>
+                              );
+                            })}
+                          </div>
+                          {item.title === "Products" && (
+                            <div className="p-2 bg-slate-50 border-t border-gray-100">
                               <Link
-                                key={child.href}
-                                href={child.href}
-                                className={`flex items-center justify-between px-5 py-2.5 text-[14px] xl:text-[14.5px] font-semibold transition-all duration-200 border-b border-gray-50 last:border-0 group/item ${
-                                  isChildActive
-                                    ? "text-[#ff7522] bg-orange-50/50 pl-6"
-                                    : "text-[#222222] hover:text-[#ff7522] hover:bg-orange-50/40 hover:pl-6"
-                                }`}
+                                href="/laboratory-glassware"
+                                className="flex items-center justify-between px-3 py-2 text-xs font-extrabold uppercase tracking-wider text-[#ff7522] hover:text-[#e65e0d] hover:bg-orange-50/80 rounded-lg transition-colors"
                               >
-                                <span>{child.title}</span>
-                                <span className="text-[#ff7522] opacity-0 -translate-x-2 group-hover/item:opacity-100 group-hover/item:translate-x-0 transition-all font-bold text-sm">
-                                  &rsaquo;
-                                </span>
+                                <span>View Complete Product Catalog</span>
+                                <ArrowRight className="w-3.5 h-3.5 ml-1" />
                               </Link>
-                            );
-                          })}
+                            </div>
+                          )}
                         </div>
                       </div>
                     </div>
@@ -128,7 +146,7 @@ export default function Header() {
             <div className="flex items-center gap-2 sm:gap-3 flex-shrink-0">
               <button
                 onClick={() => openQuoteModal()}
-                className="hidden lg:inline-flex items-center gap-2 px-4 xl:px-5 py-2.5 rounded-xl bg-gradient-to-r from-[#ff7522] to-[#e65e0d] hover:from-[#ff853d] hover:to-[#ff7522] text-white text-xs xl:text-sm font-bold shadow-lg shadow-orange-950/15 transition-all hover:scale-105 active:scale-95 cursor-pointer whitespace-nowrap"
+                className="hidden lg:inline-flex items-center gap-1.5 px-3.5 xl:px-4 py-2 rounded-xl bg-gradient-to-r from-[#ff7522] to-[#e65e0d] hover:from-[#ff853d] hover:to-[#ff7522] text-white text-xs xl:text-[13px] font-bold shadow-md shadow-orange-950/15 transition-all hover:scale-105 active:scale-95 cursor-pointer whitespace-nowrap"
               >
                 <Sparkles className="w-3.5 h-3.5 xl:w-4 xl:h-4" />
                 <span>Get Quotation</span>

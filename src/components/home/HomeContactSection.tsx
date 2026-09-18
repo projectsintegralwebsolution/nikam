@@ -68,10 +68,10 @@ export default function HomeContactSection() {
           {/* Left Column: Google Map */}
           <div className="lg:col-span-6 rounded-2xl overflow-hidden border border-gray-200 shadow-sm min-h-[280px] sm:min-h-[340px] lg:min-h-full">
             <iframe
-              src="https://maps.google.com/maps?q=18%2C%2019%20%26%2020%2C%20Jay%20Ambe%20Nagar%2C%20Shivaji%20Nagar%2C%20Dist.%20Palghar%2C%20Salvad%20-%20401%20504%2C%20Boisar%20%28W%29%2C%20Maharashtra%2C%20India&t=m&z=10&output=embed&iwloc=near"
+              src="https://maps.google.com/maps?q=Nikam%20Scientific%20Co.%2C%20Unit%20No.%2020%2C%20Jay%20Ambe%20Nagar%2C%20MIDC%20Tarapur%2C%20Shivaji%20Nagar%2C%20Boisar%2C%20Salwad%2C%20Maharashtra%20401506&t=m&z=14&output=embed&iwloc=near"
               width="100%"
               height="100%"
-              style={{ border: 0, minHeight: "280px" }}
+              style={{ border: 0, minHeight: "340px" }}
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"

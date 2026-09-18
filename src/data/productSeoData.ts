@@ -273,7 +273,7 @@ export const PRODUCT_SEO_DATA: Record<string, ItemSeoData> = {
       },
       {
         q: "How can pharma testing labs order bulk case lots?",
-        a: "Contact our commercial sales department directly at <code>info@nikamscientific.com</code> or submit an inquiry through our <a href='/contact-us'>quote page</a> for competitive tier pricing and nationwide delivery.",
+        a: "Contact our commercial sales department directly at <code>nikamscientific@gmail.com</code> or submit an inquiry through our <a href='/contact-us'>quote page</a> for competitive tier pricing and nationwide delivery.",
       },
     ],
   },
@@ -603,7 +603,7 @@ export const PRODUCT_SEO_DATA: Record<string, ItemSeoData> = {
       },
       {
         q: "How can research scientists order bespoke glassware prototypes?",
-        a: "Send your technical CAD drawings, sketches, or component photos to <code>info@nikamscientific.com</code> or reach out via our <a href='/our-work'>custom work portal</a> for direct engineer consultation.",
+        a: "Send your technical CAD drawings, sketches, or component photos to <code>nikamscientific@gmail.com</code> or reach out via our <a href='/our-work'>custom work portal</a> for direct engineer consultation.",
       },
     ],
   },

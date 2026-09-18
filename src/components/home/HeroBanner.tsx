@@ -51,9 +51,9 @@ export default function HeroBanner() {
 
   return (
     <div className="relative w-full bg-[#121315]">
-      {/* Full-width Image Carousel matching the live site */}
+      {/* Full-width Image Carousel perfectly matching banner ratio without cropping */}
       <div
-        className="relative w-full overflow-hidden aspect-[16/10] sm:aspect-[16/9] md:aspect-[1829/860] max-h-[750px] min-h-[220px] sm:min-h-[280px] md:min-h-[340px] select-none group"
+        className="relative w-full overflow-hidden aspect-[1829/860] max-h-[750px] select-none group bg-[#121315]"
         onMouseEnter={() => setIsPaused(true)}
         onMouseLeave={() => setIsPaused(false)}
       >
@@ -72,7 +72,8 @@ export default function HeroBanner() {
                 alt={slide.alt}
                 fill
                 priority={idx === 0}
-                className="object-cover object-center"
+                className="object-cover sm:object-cover object-center"
+                sizes="(max-width: 640px) 100vw, (max-width: 1024px) 100vw, 1920px"
               />
             </div>
           </div>
@@ -81,18 +82,18 @@ export default function HeroBanner() {
         {/* Carousel Navigation Arrows */}
         <button
           onClick={prevSlide}
-          className="absolute left-2 sm:left-4 md:left-6 top-1/2 -translate-y-1/2 z-30 w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 rounded-full bg-black/50 hover:bg-[#ff7522] text-white border border-white/20 flex items-center justify-center transition-all cursor-pointer opacity-80 group-hover:opacity-100 backdrop-blur-xs"
+          className="absolute left-1.5 sm:left-4 md:left-6 top-1/2 -translate-y-1/2 z-30 w-7 h-7 sm:w-10 sm:h-10 md:w-12 md:h-12 rounded-full bg-black/50 hover:bg-[#ff7522] text-white border border-white/20 flex items-center justify-center transition-all cursor-pointer opacity-80 group-hover:opacity-100 backdrop-blur-xs"
           aria-label="Previous Slide"
         >
-          <ChevronLeft className="w-4 h-4 sm:w-5 sm:h-5 md:w-6 md:h-6" />
+          <ChevronLeft className="w-3.5 h-3.5 sm:w-5 sm:h-5 md:w-6 md:h-6" />
         </button>
 
         <button
           onClick={nextSlide}
-          className="absolute right-2 sm:right-4 md:right-6 top-1/2 -translate-y-1/2 z-30 w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 rounded-full bg-black/50 hover:bg-[#ff7522] text-white border border-white/20 flex items-center justify-center transition-all cursor-pointer opacity-80 group-hover:opacity-100 backdrop-blur-xs"
+          className="absolute right-1.5 sm:right-4 md:right-6 top-1/2 -translate-y-1/2 z-30 w-7 h-7 sm:w-10 sm:h-10 md:w-12 md:h-12 rounded-full bg-black/50 hover:bg-[#ff7522] text-white border border-white/20 flex items-center justify-center transition-all cursor-pointer opacity-80 group-hover:opacity-100 backdrop-blur-xs"
           aria-label="Next Slide"
         >
-          <ChevronRight className="w-4 h-4 sm:w-5 sm:h-5 md:w-6 md:h-6" />
+          <ChevronRight className="w-3.5 h-3.5 sm:w-5 sm:h-5 md:w-6 md:h-6" />
         </button>
 
         {/* Floating Quick Action CTA Strip on Slide */}

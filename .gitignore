@@ -1,4 +1,4 @@
-﻿# dependencies
+# dependencies
 /node_modules
 /.pnp
 .pnp.js
@@ -44,3 +44,4 @@ yarn-error.log*
 
 # temporary development & scratch files
 /scratch/
+public/images/products/backup_old_industrial_images/

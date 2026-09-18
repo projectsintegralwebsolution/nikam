@@ -125,6 +125,23 @@ export default function RootLayout({
       lang="en"
       className={`${dmSans.variable} ${barlow.variable} ${montserrat.variable}`}
     >
+      <head>
+        {/* Google tag (gtag.js) */}
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-0XCE3YRX90"
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-0XCE3YRX90');
+            `,
+          }}
+        />
+      </head>
       <body className="antialiased flex flex-col min-h-screen">
         <JsonLd data={GLOBAL_ORGANIZATION_SCHEMA} />
         <QuoteModalProvider>

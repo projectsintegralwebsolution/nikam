@@ -89,6 +89,15 @@ export default function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
                             {child.title}
                           </Link>
                         ))}
+                        {item.title === "Products" && (
+                          <Link
+                            href="/laboratory-glassware"
+                            onClick={onClose}
+                            className="block px-3 py-2.5 text-[13px] font-extrabold uppercase tracking-wider text-[#ff7522] hover:text-[#e65e0d] hover:bg-white rounded transition-colors border-t border-gray-200/60 mt-1"
+                          >
+                            View Complete Catalog &rarr;
+                          </Link>
+                        )}
                       </div>
                     )}
                   </div>
